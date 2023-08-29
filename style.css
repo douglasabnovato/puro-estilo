@@ -130,7 +130,6 @@ header.sticky {
   box-shadow: 0px 0px 10px rgb(0 0 0 / 10%);
 }
 
-/* trending-section-css */
 .center-text h2 {
   color: #111;
   font-size: 28px;
@@ -166,10 +165,22 @@ header.sticky {
   font-size: 12px;
   font-weight: 500;
   text-transform: uppercase;
-  background-color: #27b737;
   padding: 3px 10px;
   border-radius: 2px;
 }
+
+.cupon-highlight-green {
+  background-color: #27b737;
+}
+
+.cupon-highlight-pink {
+  background-color: #ee1c47;
+}
+
+.cupon-highlight-blue {
+  background-color: #1f51ff;
+}
+
 .heart-icon {
   position: absolute;
   right: 0;
@@ -227,7 +238,6 @@ header.sticky {
   margin-bottom: 2px;
 }
 
-/* update-section-css */
 .up-center-text h2 {
   text-align: center;
   color: #111;
@@ -270,7 +280,6 @@ header.sticky {
   font-weight: 500;
 }
 
-/* contact-section */
 .contact {
   background-color: #f3f4f6;
 }
@@ -321,7 +330,6 @@ header.sticky {
   text-transform: capitalize;
 }
 
-/* Responsive-css */
 @media (max-width: 890px) {
   header {
     padding: 20px 3%;
