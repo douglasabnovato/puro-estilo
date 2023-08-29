@@ -1,18 +1,31 @@
+## Catálogo virtual de roupas
 
+Lista de tarefas e seus detalhes para atender as especificações do cliente.
 
+### Etapa 1
 
-- [ ] desktop
-- [ ] mobile
+- [x] ser responsivo: desktop, tablet, mobile
 - [ ] botão para levar ao topo
-- [ ] favicon
-- [ ] logo
+- [x] favicon
+- [x] logo
+- [ ] logo no footer com svg
 - [ ] em português
-- [ ] seção menu
+- [x] header: ter background
+- [ ] seção em menu
 - [ ] seção de peças em destaque
 - [ ] seção de novidades
 - [ ] seção de categorias
 - [ ] seção de todas as peças
 - [ ] buscar na seção de todas as peças
 - [ ] seção de marcas
-- [ ] seção footer
+- [ ] footer
 - [ ] galeria no banner principal
+
+### Etapa 2
+
+- [ ] mostrar detalhes de peça clicada
+- [ ] adicionar em favoritos para ter orçamento em pdf
+
+### Referências
+
+1. [Ecommerce Responsive of Saidul Islam](https://www.youtube.com/watch?v=FaNTVjATYHQ)
