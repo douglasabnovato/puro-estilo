@@ -12,15 +12,16 @@ Lista de tarefas e seus detalhes para atender as especificações do cliente.
 - [ ] em português
 - [x] header: ter background
 - [ ] seção em menu
-- [ ] seção de categorias: galeria no banner principal
+- [ ] banner principal: Lançamento de coleção 
 - [x] seção de destaque: Nossos Looks Para Você
+- [ ] banner três fixos: Três peças conceito
 - [ ] seção de novidades: News
 - [ ] seção de todas as peças: Puro estilo
-- [ ] banner new
+- [ ] banner new: Uma peça destaque
 - [ ] buscar na seção de todas as peças
-- [ ] seção depoimentos
-- [ ] seção de marcas
-- [ ] footer
+- [ ] seção depoimentos como galeria: Nossos clientes
+- [ ] seção de marcas como galeria: Nossas marcas
+- [ ] footer: informações importantes
 
 ### Etapa 2
 
