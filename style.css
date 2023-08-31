@@ -204,6 +204,39 @@ header.sticky {
   font-size: 14px;
   font-weight: 600;
 }
+
+/* start categories*/
+.categories {
+  background-color: #f3f4f6;
+  margin: 70px 0;
+}
+
+.row {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.col-3 {
+  flex-basis: 30%;
+  min-width: 250px;
+  margin-bottom: 30px;
+}
+
+.col-3 img {
+  width: 100%;
+}
+
+.small-container{
+  max-width: 1080px;
+  margin: auto;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+
+/* the end categories*/
+
 .client-reviews {
   background-color: #f3f4f6;
 }

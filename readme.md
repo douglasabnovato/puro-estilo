@@ -13,17 +13,17 @@ Lista de tarefas e seus detalhes para atender as especificações do cliente.
 - [ ] logo no footer com svg
 - [ ] em português
 - [x] header: ter background
-- [ ] seção em menu
-- [ ] banner principal: Lançamento de coleção 
+- [x] seções em menu: Looks, News, Puro estilo
+- [x] banner [width 100%] principal: Lançamento de coleção 
 - [x] seção de destaque: Nossos Looks Para Você
 - [ ] banner três fixos: Três peças conceito
 - [ ] seção de novidades: News
+- [ ] banner new: Uma peça destaque
 - [ ] seção de todas as peças: Puro estilo
 - [ ] banners categoria destaques
-- [ ] banner new: Uma peça destaque
 - [ ] seção de todas as peças: buscar, lista numerada
-- [ ] seção depoimentos como galeria: Nossos clientes
-- [ ] seção de marcas como galeria: Nossas marcas
+- [ ] banner depoimentos como galeria: Nossos clientes
+- [ ] banner de marcas como galeria: Nossas marcas
 - [ ] footer: informações importantes
 
 ### Etapa 2
@@ -34,4 +34,5 @@ Lista de tarefas e seus detalhes para atender as especificações do cliente.
 
 ### Referências
 
-1. [Ecommerce Responsive of Saidul Islam](https://www.youtube.com/watch?v=FaNTVjATYHQ)
+1. [of GreatStack](https://www.youtube.com/watch?v=yQimoqo0-7g)
+2. [of Saidul Islam](https://www.youtube.com/watch?v=FaNTVjATYHQ)
