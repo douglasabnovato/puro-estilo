@@ -1,5 +1,7 @@
 ## Catálogo virtual de roupas
 
+Esse projeto deve seguir a estratágia de spa.
+
 Lista de tarefas e seus detalhes para atender as especificações do cliente.
 
 ### Etapa 1
@@ -17,8 +19,9 @@ Lista de tarefas e seus detalhes para atender as especificações do cliente.
 - [ ] banner três fixos: Três peças conceito
 - [ ] seção de novidades: News
 - [ ] seção de todas as peças: Puro estilo
+- [ ] banners categoria destaques
 - [ ] banner new: Uma peça destaque
-- [ ] buscar na seção de todas as peças
+- [ ] seção de todas as peças: buscar, lista numerada
 - [ ] seção depoimentos como galeria: Nossos clientes
 - [ ] seção de marcas como galeria: Nossas marcas
 - [ ] footer: informações importantes
@@ -27,6 +30,7 @@ Lista de tarefas e seus detalhes para atender as especificações do cliente.
 
 - [ ] mostrar detalhes de peça clicada
 - [ ] adicionar em favoritos para ter orçamento em pdf
+- [ ] blog
 
 ### Referências
 
