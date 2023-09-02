@@ -137,26 +137,32 @@ header.sticky {
   text-align: center;
   margin-bottom: 30px;
 }
+
 .center-text span {
   color: #ee1c47;
 }
+
 .products {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(260px, auto));
   gap: 2rem;
 }
+
 .row {
   position: relative;
   transition: all 0.4s;
 }
+
 .row img {
   width: 100%;
   height: auto;
   transition: all 0.4s;
 }
+
 .row img:hover {
   transform: scale(0.9);
 }
+
 .product-text h5 {
   position: absolute;
   top: 13px;
@@ -211,7 +217,7 @@ header.sticky {
   margin: 70px 0;
 }
 
-.row {
+.row-categories {
   display: flex;
   align-items: center;
   flex-wrap: wrap;
@@ -221,6 +227,7 @@ header.sticky {
 .col-3 {
   flex-basis: 30%;
   min-width: 250px;
+  margin-top: 30px;
   margin-bottom: 30px;
 }
 
@@ -230,7 +237,7 @@ header.sticky {
 
 .small-container{
   max-width: 1080px;
-  margin: auto;
+  margin: 0 auto;
   padding-left: 25px;
   padding-right: 25px;
 }

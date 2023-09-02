@@ -2,7 +2,13 @@
 
 Esse projeto deve seguir a estratágia de spa.
 
-Lista de tarefas e seus detalhes para atender as especificações do cliente.
+### Gestão do projeto
+
+Na branch main devemos manter uma versão em produção.
+Na branch developer devemos utilizar para testar e validar as implementações.
+Uma branch com um nome sugestivo conforme seu objetivo.
+
+A seguir, a lista de tarefas e seus detalhes para atender as especificações do cliente.
 
 ### Etapa 1
 
@@ -16,12 +22,11 @@ Lista de tarefas e seus detalhes para atender as especificações do cliente.
 - [x] seções em menu: Looks, News, Puro estilo
 - [x] banner [width 100%] principal: Lançamento de coleção 
 - [x] seção de destaque: Nossos Looks Para Você
-- [ ] banner três fixos: Três peças conceito
+- [x] banner três fixos: Três peças conceito
 - [ ] seção de novidades: News
 - [ ] banner new: Uma peça destaque
 - [ ] seção de todas as peças: Puro estilo
 - [ ] banners categoria destaques
-- [ ] seção de todas as peças: buscar, lista numerada
 - [ ] banner depoimentos como galeria: Nossos clientes
 - [ ] banner de marcas como galeria: Nossas marcas
 - [ ] footer: informações importantes
@@ -31,6 +36,7 @@ Lista de tarefas e seus detalhes para atender as especificações do cliente.
 - [ ] mostrar detalhes de peça clicada
 - [ ] adicionar em favoritos para ter orçamento em pdf
 - [ ] blog
+- [ ] na seção de todas as peças: buscar, lista numerada
 
 ### Referências
 
