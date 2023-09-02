@@ -8,6 +8,8 @@ Na `branch main` devemos manter uma versão em produção.
 Na `branch developer` devemos utilizar para testar e validar as implementações.
 Uma `branch feature/nome_tarefa` com um nome sugestivo conforme seu objetivo.
 
+A lista de tarefas devem ser desenvolvidas das branches de tarefas, tratadas e mergeadas na developer e então, na main fica a versão em produção.
+
 A seguir, a lista de tarefas e seus detalhes para atender as especificações do cliente.
 
 ### Etapa 1
