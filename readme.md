@@ -33,6 +33,10 @@ A seguir, a lista de tarefas e seus detalhes para atender as especificações do
 - [ ] banner de marcas como galeria: Nossas marcas
 - [ ] footer: informações importantes
 
+#### Correções 
+
+- [ ] heart dos cards 
+
 ### Etapa 2 (feature/stage-2)
 
 - [ ] mostrar detalhes de peça clicada
