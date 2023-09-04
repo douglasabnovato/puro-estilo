@@ -1,3 +1,11 @@
+/*
+
+cores
+#ee1c47
+#ff523b
+
+*/
+
 * {
   margin: 0;
   padding: 0;
@@ -7,6 +15,7 @@
   list-style: none;
   text-decoration: none;
 }
+
 header {
   position: fixed;
   width: 100%;
@@ -18,6 +27,7 @@ header {
   justify-content: space-between;
   padding: 20px 10%;
 }
+
 .logo img {
   max-width: 220px;
   height: auto;
@@ -63,7 +73,7 @@ section {
 .main-home {
   width: 100%;
   height: 100vh;
-  background-image: url(./assets/images-one/banner-3.png);
+  background-image: url(./assets/banner-principal/banner-3.png);
   background-position: center;
   background-size: cover;
   display: grid;
@@ -217,7 +227,7 @@ header.sticky {
   margin: 70px 0;
 }
 
-.row-categories {
+.row  {
   display: flex;
   align-items: center;
   flex-wrap: wrap;
@@ -235,7 +245,7 @@ header.sticky {
   width: 100%;
 }
 
-.small-container{
+.small-container {
   max-width: 1080px;
   margin: 0 auto;
   padding-left: 25px;
@@ -243,6 +253,98 @@ header.sticky {
 }
 
 /* the end categories*/
+
+.btn {
+  display: inline-block;
+  background: #ee1c47;
+  color: #fff;
+  padding: 8px 30px;
+  margin: 30px 0;
+  border-radius: 30px;
+}
+
+.col-4 {
+  flex-basis: 25%;
+  padding: 10px;
+  min-width: 200px;
+  margin-bottom: 50px;
+  transition: transform 0.5s;
+}
+
+.col-4 img {
+  width: 100%;
+}
+
+.title {
+  text-align: center;
+  margin: 0 auto 80px;
+  position: relative;
+  line-height: 60px;
+  color: #555;
+}
+
+.title::after {
+  content: "";
+  background: #ee1c47;
+  width: 80px;
+  height: 5px;
+  border-radius: 5px;
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+h4 {
+  color: #555;
+  font-weight: normal;
+}
+
+.col-4 p {
+  font-size: 14px;
+}
+
+.rating .fa {
+  color: #ff523b;
+}
+
+.col-4:hover {
+  transform: translateY(-5px);
+}
+
+/* start news*/
+
+.col-2 {
+  flex-basis: 50%;
+  min-width: 300px;
+}
+
+.col-2 img {
+  max-width: 100%;
+  padding: 50px 0;
+}
+
+.offer {
+  background: radial-gradient(#fff, #ffd6d6);
+  margin-top: 80px;
+  padding: 30px 0;
+} 
+
+.col-2 .offer-img {
+  padding: 50px;
+}
+
+.small {
+  color: #555;
+}
+
+.col-2 h1 {
+  font-size: 50px;
+  line-height: 60px;
+  margin: 25px 0;
+}
+
+/* the end news*/
 
 .client-reviews {
   background-color: #f3f4f6;
