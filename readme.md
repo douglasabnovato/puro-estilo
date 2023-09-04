@@ -12,7 +12,7 @@ A lista de tarefas devem ser desenvolvidas das branches de tarefas, tratadas e m
 
 A seguir, a lista de tarefas e seus detalhes para atender as especificações do cliente.
 
-### Etapa 1
+### Etapa 1 (feature/stage-1)
 
 - [x] ser responsivo: desktop, tablet, mobile
 - [ ] botão para levar ao topo
@@ -33,7 +33,7 @@ A seguir, a lista de tarefas e seus detalhes para atender as especificações do
 - [ ] banner de marcas como galeria: Nossas marcas
 - [ ] footer: informações importantes
 
-### Etapa 2
+### Etapa 2 (feature/stage-2)
 
 - [ ] mostrar detalhes de peça clicada
 - [ ] adicionar em favoritos para ter orçamento em pdf
