@@ -26,16 +26,16 @@ A seguir, a lista de tarefas e seus detalhes para atender as especificações do
 - [x] seção de destaque: Nossos Looks Para Você
 - [x] banner três fixos: Três peças conceito
 - [ ] seção de novidades: News
-- [ ] banner new: Uma peça destaque
+- [x] banner new: Uma peça destaque
 - [ ] seção de todas as peças: Puro estilo
 - [ ] banners categoria destaques
-- [ ] banner depoimentos como galeria: Nossos clientes
+- [x] banner depoimentos como galeria: Nossos clientes
 - [ ] banner de marcas como galeria: Nossas marcas
 - [ ] footer: informações importantes
 
 #### Correções 
 
-- [ ] heart dos cards 
+- [ ] heart dos cards: posicionar ao final da linha depois do nome da peça
 
 ### Etapa 2 (feature/stage-2)
 
