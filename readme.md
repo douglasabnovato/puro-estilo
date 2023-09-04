@@ -18,9 +18,8 @@ A seguir, a lista de tarefas e seus detalhes para atender as especificações do
 - [ ] botão para levar ao topo
 - [x] favicon
 - [x] logo
-- [ ] logo no footer com svg
 - [ ] em português
-- [x] header: ter background
+- [x] header: ter background 
 - [x] seções em menu: Looks, News, Puro estilo
 - [x] banner [width 100%] principal: Lançamento de coleção 
 - [x] seção de destaque: Nossos Looks Para Você
@@ -30,8 +29,9 @@ A seguir, a lista de tarefas e seus detalhes para atender as especificações do
 - [ ] seção de todas as peças: Puro estilo
 - [ ] banners categoria destaques
 - [x] banner depoimentos como galeria: Nossos clientes
-- [ ] banner de marcas como galeria: Nossas marcas
+- [x] banner de marcas como galeria: Nossas marcas
 - [ ] footer: informações importantes
+- [x] footer: logo
 
 #### Correções dessa etapa
 
