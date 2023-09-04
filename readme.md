@@ -33,7 +33,7 @@ A seguir, a lista de tarefas e seus detalhes para atender as especificações do
 - [ ] banner de marcas como galeria: Nossas marcas
 - [ ] footer: informações importantes
 
-#### Correções 
+#### Correções dessa etapa
 
 - [ ] heart dos cards: posicionar ao final da linha depois do nome da peça
 

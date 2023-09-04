@@ -437,26 +437,25 @@ h4 {
   font-weight: 500;
 }
 
-
 /* start banner depoimentos */
 
 .testimonial {
   padding-top: 100px;
 }
 
-.testimonial .col-3{
+.testimonial .col-3 {
   text-align: center;
   padding: 40px 20px;
-  box-shadow: 0 0 20px 0px rgba(0,0,0,0.1);
+  box-shadow: 0 0 20px 0px rgba(0, 0, 0, 0.1);
   cursor: pointer;
   transition: transform 0.5s;
 }
 
-.testimonial .col-3:hover{
+.testimonial .col-3:hover {
   transform: translateY(-10px);
 }
 
-.testimonial .col-3 img{
+.testimonial .col-3 img {
   width: 50px;
   margin-top: 20px;
   border-radius: 50%;
@@ -474,6 +473,28 @@ h4 {
 }
 
 /* the end banner depoimentos */
+
+/* start banner brands */
+
+.brands {
+  margin: 100px auto;
+}
+
+.col-5{
+  width: 160px;
+}
+
+.col-5 img {
+  width: 100%;
+  cursor: pointer;
+  filter: grayscale(100%);
+}
+
+.col-5 img:hover{
+  filter: grayscale(0);
+}
+
+/* the end banner brands */
 
 /* start contact */
 
