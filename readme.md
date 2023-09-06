@@ -18,9 +18,9 @@ A seguir, a lista de tarefas e seus detalhes para atender as especificações do
 - [ ] botão para levar ao topo
 - [x] favicon
 - [x] logo
-- [ ] em português
+- [x] em português
 - [x] header: ter background 
-- [x] seções em menu: Looks, News, Puro estilo
+- [x] seções em menu: Looks, News, Puro estilo, Nossas Marcas
 - [x] banner [width 100%] principal: Lançamento de coleção. Cinza
 - [x] seção de destaque: Nossos Looks Para Você
 - [x] banner três fixos: Três peças conceito. Cinza
@@ -28,6 +28,7 @@ A seguir, a lista de tarefas e seus detalhes para atender as especificações do
 - [x] banner new: Uma peça destaque. Pink
 - [ ] seção de todas as peças: Puro estilo
 - [ ] banners categoria destaques
+- [x] seção de promoções: O Que Vem Por Aí!?
 - [x] banner depoimentos como galeria: Nossos clientes. Pink
 - [x] banner de marcas como galeria: Nossas marcas
 - [x] footer:logo, informações importantes. Cinza 
