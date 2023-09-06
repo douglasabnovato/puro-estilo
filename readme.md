@@ -30,7 +30,7 @@ A seguir, a lista de tarefas e seus detalhes para atender as especificações do
 - [ ] banners categoria destaques
 - [x] banner depoimentos como galeria: Nossos clientes. Pink
 - [x] banner de marcas como galeria: Nossas marcas
-- [ ] footer:logo, informações importantes. Cinza 
+- [x] footer:logo, informações importantes. Cinza 
 
 #### Correções dessa etapa
 
@@ -38,10 +38,13 @@ A seguir, a lista de tarefas e seus detalhes para atender as especificações do
 
 ### Etapa 2 (feature/stage-2)
 
-- [ ] mostrar detalhes de peça clicada
-- [ ] adicionar em favoritos para ter orçamento em pdf
-- [ ] blog
-- [ ] na seção de todas as peças: buscar, lista numerada
+- [ ] na seção de todas as peças: buscar 
+- [ ] na seção de todas as peças: listagem numerada
+- [ ] na seção de todas as peças: ordenação
+- [ ] detalhes de peça: mostrar informações no item clicado
+- [ ] mostrar uma lista de itens selecionados como favoritos para ter orçamento 
+- [ ] gerar em pdf da lista de itens selecionados
+- [ ] seção blog para matérias de moda e trabalhar seo
 
 ### Referências
 
