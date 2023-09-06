@@ -21,17 +21,16 @@ A seguir, a lista de tarefas e seus detalhes para atender as especificações do
 - [ ] em português
 - [x] header: ter background 
 - [x] seções em menu: Looks, News, Puro estilo
-- [x] banner [width 100%] principal: Lançamento de coleção 
+- [x] banner [width 100%] principal: Lançamento de coleção. Cinza
 - [x] seção de destaque: Nossos Looks Para Você
-- [x] banner três fixos: Três peças conceito
+- [x] banner três fixos: Três peças conceito. Cinza
 - [ ] seção de novidades: News
-- [x] banner new: Uma peça destaque
+- [x] banner new: Uma peça destaque. Pink
 - [ ] seção de todas as peças: Puro estilo
 - [ ] banners categoria destaques
-- [x] banner depoimentos como galeria: Nossos clientes
+- [x] banner depoimentos como galeria: Nossos clientes. Pink
 - [x] banner de marcas como galeria: Nossas marcas
-- [ ] footer: informações importantes
-- [x] footer: logo
+- [ ] footer:logo, informações importantes. Cinza 
 
 #### Correções dessa etapa
 
