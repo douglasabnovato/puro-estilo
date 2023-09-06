@@ -440,7 +440,9 @@ h4 {
 /* start banner depoimentos */
 
 .testimonial {
-  padding-top: 100px;
+  padding-inline: 80px;
+  background: radial-gradient(#fff, #ffd6d6);
+  
 }
 
 .testimonial .col-3 {
@@ -491,7 +493,7 @@ h4 {
 }
 
 .col-5 img:hover{
-  filter: grayscale(0);
+  filter: grayscale(0); 
 }
 
 /* the end banner brands */
