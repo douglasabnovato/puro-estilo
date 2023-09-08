@@ -6,6 +6,9 @@ cores
 
 */
 
+/* font-family: "Spartan", sans-serif; */
+@import url("https://fonts.googleapis.com/css2?family=League+Spartan:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
 * {
   margin: 0;
   padding: 0;
@@ -140,11 +143,14 @@ header.sticky {
   box-shadow: 0px 0px 10px rgb(0 0 0 / 10%);
 }
 
+.center-text {
+  text-align: center;
+}
+
 .center-text h2 {
   color: #111;
   font-size: 28px;
   text-transform: capitalize;
-  text-align: center;
   margin-bottom: 30px;
 }
 
@@ -156,6 +162,7 @@ header.sticky {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(260px, auto));
   gap: 2rem;
+  padding-top: 20px;
 }
 
 .row {
@@ -350,20 +357,37 @@ h4 {
 
 /* the end news*/
 
-.client-reviews {
+
+.founder { 
   background-color: #f3f4f6;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;  
 }
 
-.reviews {
-  text-align: center;
-}
-
-.reviews h3 {
+.founder h3 {
   color: #111;
   font-size: 25px;
   text-transform: capitalize;
   text-align: center;
   font-weight: 700;
+}
+
+.client-reviews {
+  background-color: #f3f4f6;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;  
+}
+
+.reviews {
+  text-align: center;
+  width: 25%;
+  min-width: 350px;
+  padding-inline: 25px;
+  margin-block: 25px;
 }
 
 .reviews img {
@@ -373,7 +397,7 @@ h4 {
   margin: 10px 0;
 }
 
-.reviews p {
+.reviews p.box-text {
   color: #707070;
   font-size: 16px;
   font-weight: 400;
@@ -437,12 +461,154 @@ h4 {
   font-weight: 500;
 }
 
+/* start news - product1 */
+
+#product1 {
+  font-family: "Spartan", sans-serif;
+  text-align: center;
+}
+
+#product1 .pro-container {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 20px;
+  flex-wrap: wrap;
+}
+
+#product1 .pro {
+  width: 23%;
+  min-width: 250px;
+  padding: 10px 12px;
+  border: 1px solid #cce7d0;
+  border-radius: 25px;
+  cursor: pointer;
+  box-shadow: 20px 20px 30px rgba(0, 0, 0, 0.02);
+  margin: 15px 0;
+  transition: 0.2s ease;
+  position: relative;
+}
+
+#product1 .pro:hover {
+  box-shadow: 20px 20px 30px rgba(0, 0, 0, 0.06);
+}
+
+#product1 .pro img {
+  width: 100%;
+  border-radius: 20px;
+}
+
+#product1 .pro .des {
+  text-align: start;
+  padding: 10px 0;
+}
+
+#product1 .pro .des span {
+  color: #606063;
+  font-size: 12px;
+}
+
+#product1 .pro .des h5 {
+  padding-top: 7px;
+  color: #1a1a1a;
+  font-size: 14px;
+}
+
+#product1 .pro .des i {
+  font-size: 12px;
+  color: rgb(243, 181, 25);
+}
+
+#product1 .pro .des h4 {
+  padding-top: 7px;
+  font-size: 15px;
+  font-weight: 700;
+  color: #088178;
+}
+
+#product1 .pro .cart-shopping {
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  border-radius: 50px;
+  background-color: #e8f6ea;
+  font-weight: 500;
+  color: #088178;
+  border: 1px solid #cce7d0;
+  position: absolute;
+  bottom: 20px;
+  right: 10px;
+}
+
+#product1 .pro .cart-shopping:hover {
+  background-color: #b5e7bd;
+  color: #055a54;
+  border: 2px solid #cce7d0;
+}
+
+/* the end news - product1 */
+
+.banner-off{
+  margin: 40px 0;
+}
+
+.banner-off button.normal{
+  font-size: 14px;
+  font-weight: 600;
+  padding: 15px 30px;
+  color: #000;
+  background-color: #fff;
+  border-radius: 4px;
+  cursor: pointer;
+  border: none;
+  outline: none;
+  transition: 0.2s;
+} 
+
+#banner-off{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-image: url("./assets/banner-off/b2.jpg");
+  width: 100%;
+  height: 40vh;
+  background-size: cover;
+  background-position: center;
+}
+
+#banner-off h4{
+  color: #fff;
+  font-size: 16px;
+}
+
+#banner-off h2{
+  color: #fff;
+  font-size: 30px;
+  padding: 10px 0;
+}
+
+#banner-off h2 span{
+  color: #ef3636;
+
+}
+
+#banner-off button:hover{
+  background: #088178;
+  color: #fff;
+}
+
+/* start banner off */
+
+
+
+/* the end banner off  */
+
 /* start banner depoimentos */
 
 .testimonial {
   padding-inline: 80px;
   background: radial-gradient(#fff, #ffd6d6);
-  
 }
 
 .testimonial .col-3 {
@@ -482,7 +648,7 @@ h4 {
   margin: 100px auto;
 }
 
-.col-5{
+.col-5 {
   width: 160px;
 }
 
@@ -492,8 +658,8 @@ h4 {
   filter: grayscale(100%);
 }
 
-.col-5 img:hover{
-  filter: grayscale(0); 
+.col-5 img:hover {
+  filter: grayscale(0);
 }
 
 /* the end banner brands */

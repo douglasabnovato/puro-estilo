@@ -20,17 +20,19 @@ A seguir, a lista de tarefas e seus detalhes para atender as especificações do
 - [x] logo
 - [x] em português
 - [x] header: ter background 
-- [x] seções em menu: Looks, News, Puro estilo, Nossas Marcas
+- [ ] seções em menu: Looks, News, Puro estilo, Nossas Marcas com fluxo
 - [x] banner [width 100%] principal: Lançamento de coleção. Cinza
 - [x] seção de destaque: Nossos Looks Para Você
 - [x] banner três fixos: Três peças conceito. Cinza
-- [ ] seção de novidades: News
+- [x] seção de novidades: News
 - [x] banner new: Uma peça destaque. Pink
+- [x] banner off: promoção (criar uma seção com as peças para essa promoção)
 - [ ] seção de todas as peças: Puro estilo
 - [ ] banners categoria destaques
 - [x] seção de promoções: O Que Vem Por Aí!?
 - [x] banner depoimentos como galeria: Nossos clientes. Pink
 - [x] banner de marcas como galeria: Nossas marcas
+- [x] seção fundadores
 - [x] footer:logo, informações importantes. Cinza 
 
 #### Correções dessa etapa
@@ -45,9 +47,13 @@ A seguir, a lista de tarefas e seus detalhes para atender as especificações do
 - [ ] detalhes de peça: mostrar informações no item clicado
 - [ ] mostrar uma lista de itens selecionados como favoritos para ter orçamento 
 - [ ] gerar em pdf da lista de itens selecionados
-- [ ] seção blog para matérias de moda e trabalhar seo
+- [ ] footer: link para uma página de blog para matérias de moda e trabalhar seo
+- [ ] footer: newsletter 
+- [ ] footer: contato
+- [ ] footer: sobre
 
 ### Referências
 
 1. [of GreatStack](https://www.youtube.com/watch?v=yQimoqo0-7g)
 2. [of Saidul Islam](https://www.youtube.com/watch?v=FaNTVjATYHQ)
+3. [of Tech2 etc](https://www.youtube.com/watch?v=P8YuWEkTeuE)
