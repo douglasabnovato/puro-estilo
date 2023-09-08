@@ -24,7 +24,7 @@ A seguir, a lista de tarefas e seus detalhes para atender as especificações do
 - [x] banner [width 100%] principal: Lançamento de coleção. Cinza
 - [x] seção de destaque: Nossos Looks Para Você
 - [x] banner três fixos: Três peças conceito. Cinza
-- [ ] seção de novidades: News
+- [x] seção de novidades: News
 - [x] banner new: Uma peça destaque. Pink
 - [ ] seção de todas as peças: Puro estilo
 - [ ] banners categoria destaques
