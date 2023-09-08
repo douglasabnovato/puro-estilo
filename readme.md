@@ -26,11 +26,13 @@ A seguir, a lista de tarefas e seus detalhes para atender as especificações do
 - [x] banner três fixos: Três peças conceito. Cinza
 - [x] seção de novidades: News
 - [x] banner new: Uma peça destaque. Pink
+- [ ] banner off: promoção
 - [ ] seção de todas as peças: Puro estilo
 - [ ] banners categoria destaques
 - [x] seção de promoções: O Que Vem Por Aí!?
 - [x] banner depoimentos como galeria: Nossos clientes. Pink
 - [x] banner de marcas como galeria: Nossas marcas
+- [x] seção fundadores
 - [x] footer:logo, informações importantes. Cinza 
 
 #### Correções dessa etapa
