@@ -57,4 +57,3 @@ A seguir, a lista de tarefas e seus detalhes para atender as especificações do
 1. [of GreatStack](https://www.youtube.com/watch?v=yQimoqo0-7g)
 2. [of Saidul Islam](https://www.youtube.com/watch?v=FaNTVjATYHQ)
 3. [of Tech2 etc](https://www.youtube.com/watch?v=P8YuWEkTeuE)
-4. 
