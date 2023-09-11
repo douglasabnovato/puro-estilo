@@ -4,8 +4,8 @@ Esse projeto deve seguir a estratágia de spa.
 
 ### Gestão do projeto
 
-Na `branch main` devemos manter uma versão em produção.
-Na `branch developer` devemos utilizar para testar e validar as implementações.
+Na `branch main` devemos manter uma versão em produção.</br>
+Na `branch developer` devemos utilizar para testar e validar as implementações.</br>
 Uma `branch feature/nome_tarefa` com um nome sugestivo conforme seu objetivo.
 
 A lista de tarefas devem ser desenvolvidas das branches de tarefas, tratadas e mergeadas na developer e então, na main fica a versão em produção.
