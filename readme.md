@@ -14,13 +14,13 @@ A seguir, a lista de tarefas e seus detalhes para atender as especificações do
 
 ### Etapa 1 (feature/stage-1)
 
-- [x] ser responsivo: desktop, tablet, mobile
+- [ ] ser responsivo: desktop, tablet, mobile
 - [x] favicon
 - [x] logo
-- [x] em português
+- [ ] em português
 - [x] header: ter background 
 - [x] seções em menu: Looks, News, Puro estilo, Nossas Marcas com fluxo
-- [x] banner [width 100%] principal: Lançamento de coleção. Cinza
+- [x] banner [width 100%] principal como galeria: Lançamento de coleção. Cinza
 - [x] seção de destaque: Nossos Looks Para Você
 - [x] banner três fixos: Três peças conceito. Cinza
 - [x] seção de novidades: News
@@ -28,21 +28,18 @@ A seguir, a lista de tarefas e seus detalhes para atender as especificações do
 - [x] banner off: promoção (criar uma seção com as peças para essa promoção)
 - [x] banners coleções destaques
 - [x] seção de promoções: O Que Vem Por Aí!?
-- [x] banner depoimentos: Nossos clientes. Pink
+- [x] banner depoimentos como galeria: Nossos clientes. Pink
 - [x] banner de marcas como galeria: Nossas marcas
 - [x] seção fundadores
 - [x] footer: logo, informações importantes. Cinza 
-- [ ] footer: newsletter 
-- [ ] footer: contato
-- [ ] footer: sobre
+- [ ] footer: uma página sobre
+- [ ] banner newsletter 
+- [ ] banner contato
+- [ ] botão para levar ao topo
 
 #### Correções dessa etapa
 
-- [ ] botão para levar ao topo
-- [ ] heart dos cards: posicionar ao final da linha depois do nome da peça
-- [ ] banner depoimentos como galeria
-- [ ] banner principal como galeria
-- [ ] ser responsivo: desktop, tablet, mobile
+- [ ] heart dos cards: posicionar ao final da linha depois do nome da peça  
 - [ ] reunir pasta de mais imagens de outras referências
 
 ### Etapa 2 (feature/stage-2)
