@@ -258,9 +258,10 @@ header.sticky {
 
 .small-container {
   max-width: 1080px;
-  margin: 0 auto;
+  margin: 40px auto;
   padding-left: 25px;
   padding-right: 25px;
+  padding-top: 92px;
 }
 
 /* the end categories*/
@@ -727,6 +728,93 @@ h4 {
 }
 
 /* the end banner colletions  */
+
+
+/* start puro estilo - pure-style */
+
+#pure-style {
+  font-family: "Spartan", sans-serif;
+  text-align: center;
+}
+
+#pure-style .pro-container {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 20px;
+  flex-wrap: wrap;
+}
+
+#pure-style .pro {
+  width: 23%;
+  min-width: 250px;
+  padding: 10px 12px;
+  border: 1px solid #cce7d0;
+  border-radius: 25px;
+  cursor: pointer;
+  box-shadow: 20px 20px 30px rgba(0, 0, 0, 0.02);
+  margin: 15px 0;
+  transition: 0.2s ease;
+  position: relative;
+}
+
+#pure-style .pro:hover {
+  box-shadow: 20px 20px 30px rgba(0, 0, 0, 0.06);
+}
+
+#pure-style .pro img {
+  width: 100%;
+  border-radius: 20px;
+}
+
+#pure-style .pro .des {
+  text-align: start;
+  padding: 10px 0;
+}
+
+#pure-style .pro .des span {
+  color: #606063;
+  font-size: 12px;
+}
+
+#pure-style .pro .des h5 {
+  padding-top: 7px;
+  color: #1a1a1a;
+  font-size: 14px;
+}
+
+#pure-style .pro .des i {
+  font-size: 12px;
+  color: rgb(243, 181, 25);
+}
+
+#pure-style .pro .des h4 {
+  padding-top: 7px;
+  font-size: 15px;
+  font-weight: 700;
+  color: #088178;
+}
+
+#pure-style .pro .cart-shopping {
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  border-radius: 50px;
+  background-color: #e8f6ea;
+  font-weight: 500;
+  color: #088178;
+  border: 1px solid #cce7d0;
+  position: absolute;
+  bottom: 20px;
+  right: 10px;
+}
+
+#pure-style .pro .cart-shopping:hover {
+  background-color: #b5e7bd;
+  color: #055a54;
+  border: 2px solid #cce7d0;
+}
+
+/* the end puro estilo - pure-style */
 
 /* start banner depoimentos */
 
