@@ -28,7 +28,7 @@ A seguir, a lista de tarefas e seus detalhes para atender as especificações do
 - [x] banner new: Uma peça destaque. Pink
 - [x] banner off: promoção (criar uma seção com as peças para essa promoção)
 - [ ] seção de todas as peças: Puro estilo
-- [ ] banners categoria destaques
+- [ ] banners coleções destaques
 - [x] seção de promoções: O Que Vem Por Aí!?
 - [x] banner depoimentos: Nossos clientes. Pink
 - [x] banner de marcas como galeria: Nossas marcas
