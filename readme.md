@@ -31,7 +31,10 @@ A seguir, a lista de tarefas e seus detalhes para atender as especificações do
 - [x] banner depoimentos: Nossos clientes. Pink
 - [x] banner de marcas como galeria: Nossas marcas
 - [x] seção fundadores
-- [x] footer:logo, informações importantes. Cinza 
+- [x] footer: logo, informações importantes. Cinza 
+- [ ] footer: newsletter 
+- [ ] footer: contato
+- [ ] footer: sobre
 
 #### Correções dessa etapa
 
@@ -40,6 +43,7 @@ A seguir, a lista de tarefas e seus detalhes para atender as especificações do
 - [ ] banner depoimentos como galeria
 - [ ] banner principal como galeria
 - [ ] ser responsivo: desktop, tablet, mobile
+- [ ] reunir pasta de mais imagens de outras referências
 
 ### Etapa 2 (feature/stage-2)
 
@@ -51,9 +55,6 @@ A seguir, a lista de tarefas e seus detalhes para atender as especificações do
 - [ ] mostrar uma lista de itens selecionados como favoritos para ter orçamento 
 - [ ] gerar em pdf da lista de itens selecionados
 - [ ] footer: link para uma página de blog para matérias de moda e trabalhar seo
-- [ ] footer: newsletter 
-- [ ] footer: contato
-- [ ] footer: sobre
 
 ### Referências
 
