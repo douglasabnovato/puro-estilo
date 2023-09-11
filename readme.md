@@ -30,7 +30,7 @@ A seguir, a lista de tarefas e seus detalhes para atender as especificações do
 - [ ] seção de todas as peças: Puro estilo
 - [ ] banners categoria destaques
 - [x] seção de promoções: O Que Vem Por Aí!?
-- [x] banner depoimentos como galeria: Nossos clientes. Pink
+- [x] banner depoimentos: Nossos clientes. Pink
 - [x] banner de marcas como galeria: Nossas marcas
 - [x] seção fundadores
 - [x] footer:logo, informações importantes. Cinza 
@@ -38,6 +38,7 @@ A seguir, a lista de tarefas e seus detalhes para atender as especificações do
 #### Correções dessa etapa
 
 - [ ] heart dos cards: posicionar ao final da linha depois do nome da peça
+- [ ] banner depoimentos como galeria
 
 ### Etapa 2 (feature/stage-2)
 
