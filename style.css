@@ -684,6 +684,48 @@ h4 {
   transition: 0.2s;
 }
 
+#banner3 { 
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding: 0 80px;
+  background: radial-gradient(#fff, #f3f4f6); 
+}
+
+#banner3 h2{  
+  color: #fff;
+  font-weight: 900;
+  font-weight: 22px;
+}
+
+#banner3 h3{  
+  color: #ec544e;
+  font-weight: 800;
+  font-weight: 15px;
+}
+
+#banner3 .banner-box {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  background-image: url("./assets/banner-collections/b7.jpg");
+  min-width: 30%;
+  height: 30vh;
+  background-size: cover;
+  background-position: center;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+#banner3 .banner-box-2 {
+  background-image: url("./assets/banner-collections/b4.jpg"); 
+}
+
+#banner3 .banner-box-3 {
+  background-image: url("./assets/banner-collections/b18.jpg"); 
+}
+
 /* the end banner colletions  */
 
 /* start banner depoimentos */
