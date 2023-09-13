@@ -14,10 +14,11 @@ A seguir, a lista de tarefas e seus detalhes para atender as especificações do
 
 ### Etapa 1 (feature/stage-1)
 
+- [ ] botão para levar ao topo
+- [ ] em português
+- [ ] ser responsivo: desktop, tablet, mobile
 - [x] logo
 - [x] favicon
-- [x] em português
-- [ ] ser responsivo: desktop, tablet, mobile
 - [x] header: ter background 
 - [x] seções em menu: Looks, News, Puro estilo, Nossas Marcas com fluxo
 - [x] banner [width 100%] principal como galeria: Lançamento de coleção. Cinza
@@ -32,11 +33,11 @@ A seguir, a lista de tarefas e seus detalhes para atender as especificações do
 - [x] banner de marcas como galeria: Nossas marcas
 - [x] seção fundadores
 - [x] footer: logo, informações importantes. Cinza
-- [ ] botão para levar ao topo
 
 #### Correções dessa etapa
 
 - [ ] heart dos cards: posicionar ao final da linha depois do nome da peça  
+- [ ] revisar o css html js
 
 ### Etapa 2 (feature/stage-2)
 
