@@ -14,10 +14,10 @@ A seguir, a lista de tarefas e seus detalhes para atender as especificações do
 
 ### Etapa 1 (feature/stage-1)
 
-- [ ] ser responsivo: desktop, tablet, mobile
-- [x] favicon
 - [x] logo
-- [ ] em português
+- [x] favicon
+- [x] em português
+- [ ] ser responsivo: desktop, tablet, mobile
 - [x] header: ter background 
 - [x] seções em menu: Looks, News, Puro estilo, Nossas Marcas com fluxo
 - [x] banner [width 100%] principal como galeria: Lançamento de coleção. Cinza
@@ -31,16 +31,12 @@ A seguir, a lista de tarefas e seus detalhes para atender as especificações do
 - [x] banner depoimentos como galeria: Nossos clientes. Pink
 - [x] banner de marcas como galeria: Nossas marcas
 - [x] seção fundadores
-- [x] footer: logo, informações importantes. Cinza 
-- [ ] footer: uma página sobre
-- [ ] banner newsletter 
-- [ ] banner contato
+- [x] footer: logo, informações importantes. Cinza
 - [ ] botão para levar ao topo
 
 #### Correções dessa etapa
 
 - [ ] heart dos cards: posicionar ao final da linha depois do nome da peça  
-- [ ] reunir pasta de mais imagens de outras referências
 
 ### Etapa 2 (feature/stage-2)
 
@@ -52,6 +48,9 @@ A seguir, a lista de tarefas e seus detalhes para atender as especificações do
 - [ ] mostrar uma lista de itens selecionados como favoritos para ter orçamento 
 - [ ] gerar em pdf da lista de itens selecionados
 - [ ] footer: link para uma página de blog para matérias de moda e trabalhar seo
+- [ ] footer: uma página sobre 
+- [ ] banner newsletter 
+- [ ] banner contato
 
 ### Referências
 
