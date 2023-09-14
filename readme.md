@@ -14,7 +14,6 @@ A seguir, a lista de tarefas e seus detalhes para atender as especificações do
 
 ### Etapa 1 (feature/stage-1)
 
-- [ ] botão para levar ao topo
 - [ ] em português
 - [ ] ser responsivo: desktop, tablet, mobile
 - [x] logo
@@ -33,6 +32,11 @@ A seguir, a lista de tarefas e seus detalhes para atender as especificações do
 - [x] banner de marcas como galeria: Nossas marcas
 - [x] seção fundadores
 - [x] footer: logo, informações importantes. Cinza
+
+Looks: montagem de looks para sugestão de combinações
+Novidades: peças que acabaram de chegar
+Puro estilo: todas as peças da loja
+Nossas marcas: as marcas que a loja trabalha
 
 #### Correções dessa etapa
 
