@@ -18,25 +18,21 @@ A seguir, a lista de tarefas e seus detalhes para atender as especificações do
 - [ ] ser responsivo: desktop, tablet, mobile
 - [x] logo
 - [x] favicon
-- [x] header: ter background 
-- [x] seções em menu: Looks, News, Puro estilo, Nossas Marcas com fluxo
-- [x] banner [width 100%] principal como galeria: Lançamento de coleção. Cinza
-- [x] seção de destaque: Nossos Looks Para Você
-- [x] banner três fixos: Três peças conceito. Cinza
-- [x] seção de novidades: News
+- [x] header sendo um menu 
+- [x] banner principal como galeria: Lançamento de coleção
+- [x] seção de destaque - Looks: montagem de looks de combinações
+- [x] banner para destacar: Três peças conceito. Cinza
+- [x] seção de Novidades: peças que acabaram de chegar
 - [x] banner new: Uma peça destaque. Pink
+- [x] seção de todas as peças - Puro estilo
 - [x] banner off: promoção (criar uma seção com as peças para essa promoção)
+- [ ] seção xxx
 - [x] banners coleções destaques
 - [x] seção de promoções: O Que Vem Por Aí!?
 - [x] banner depoimentos como galeria: Nossos clientes. Pink
-- [x] banner de marcas como galeria: Nossas marcas
+- [x] banner como galeria de Nossas marcas: as marcas que a loja trabalha 
 - [x] seção fundadores
 - [x] footer: logo, informações importantes. Cinza
-
-Looks: montagem de looks para sugestão de combinações
-Novidades: peças que acabaram de chegar
-Puro estilo: todas as peças da loja
-Nossas marcas: as marcas que a loja trabalha
 
 #### Correções dessa etapa
 
