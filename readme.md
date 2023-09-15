@@ -14,7 +14,7 @@ A seguir, a lista de tarefas e seus detalhes para atender as especificações do
 
 ### Etapa 1 (feature/stage-1)
 
-- [ч] em português
+- [x] em português
 - [ ] ser responsivo: desktop, tablet, mobile
 - [x] logo
 - [x] favicon
