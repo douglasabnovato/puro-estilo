@@ -19,17 +19,17 @@ A seguir, a lista de tarefas e seus detalhes para atender as especificações do
 - [x] logo
 - [x] favicon
 - [x] header sendo um menu: Logo, Looks, Novidades, Puro Estilo, Nossas marcas
-- [x] banner principal como galeria: Lançamento de coleção
+- [ ] banner principal como galeria: Lançamento de coleção
 - [x] seção de destaque - Looks: montagem de looks de combinações. Nossos Looks Para Você
 - [x] banner para destacar: Três peças conceito. Cinza
 - [x] seção de Novidades: peças que acabaram de chegar. Nossas Peças Para Você
 - [x] banner new: Uma peça destaque. Pink
-- [x] seção de todas as peças - Puro estilo. Tudo Com Puro Estilo Para Você
+- [ ] seção de todas as peças - Puro estilo. Tudo Com Puro Estilo Para Você
 - [x] banner off: promoção 70% off (criar uma seção [card] com as peças para essa promoção)
 - [ ] seção de acessórios: O Puro Estilo
 - [x] banners coleções destaques
 - [x] seção de campanhas de promoções: O Que Vem Por Aí!?
-- [x] banner depoimentos como galeria: Nossos clientes. Pink
+- [ ] banner depoimentos como galeria: Nossos clientes. Pink
 - [x] banner como galeria de Nossas marcas: as marcas que a loja trabalha 
 - [x] seção fundadores
 - [x] footer: logo, informações importantes. Cinza
