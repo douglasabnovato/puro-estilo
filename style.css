@@ -229,7 +229,7 @@ section {
 
 .row img:hover {
   transform: scale(0.9);
-}
+} 
 
 .product-text h5 {
   position: absolute;
@@ -256,8 +256,7 @@ section {
 }
 
 .heart-icon {
-  position: absolute;
-  right: 0;
+  left: 0;
   font-size: 20px;
 }
 

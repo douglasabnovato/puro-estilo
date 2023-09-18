@@ -36,7 +36,7 @@ A seguir, a lista de tarefas e seus detalhes para atender as especificações do
 
 #### Correções dessa etapa
 
-- [ ] heart dos cards: posicionar ao final da linha depois do nome da peça  
+- [x] heart dos cards: posicionar ao final da linha depois do nome da peça  
 - [x] revisar o css
 - [x] revisar o html 
 - [x] revisar o js
