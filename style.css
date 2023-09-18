@@ -731,19 +731,19 @@ h4 {
 
 /* start puro estilo - pure-style */
 
-#pure-style {
+#purestyle {
   font-family: "Spartan", sans-serif;
   text-align: center;
 }
 
-#pure-style .pro-container {
+#purestyle .pro-container {
   display: flex;
   justify-content: space-between;
   padding-top: 20px;
   flex-wrap: wrap;
 }
 
-#pure-style .pro {
+#purestyle .pro {
   width: 23%;
   min-width: 250px;
   padding: 10px 12px;
@@ -756,44 +756,44 @@ h4 {
   position: relative;
 }
 
-#pure-style .pro:hover {
+#purestyle .pro:hover {
   box-shadow: 20px 20px 30px rgba(0, 0, 0, 0.06);
 }
 
-#pure-style .pro img {
+#purestyle .pro img {
   width: 100%;
   border-radius: 20px;
 }
 
-#pure-style .pro .des {
+#purestyle .pro .des {
   text-align: start;
   padding: 10px 0;
 }
 
-#pure-style .pro .des span {
+#purestyle .pro .des span {
   color: #606063;
   font-size: 12px;
 }
 
-#pure-style .pro .des h5 {
+#purestyle .pro .des h5 {
   padding-top: 7px;
   color: #1a1a1a;
   font-size: 14px;
 }
 
-#pure-style .pro .des i {
+#purestyle .pro .des i {
   font-size: 12px;
   color: rgb(243, 181, 25);
 }
 
-#pure-style .pro .des h4 {
+#purestyle .pro .des h4 {
   padding-top: 7px;
   font-size: 15px;
   font-weight: 700;
   color: #088178;
 }
 
-#pure-style .pro .cart-shopping {
+#purestyle .pro .cart-shopping {
   width: 40px;
   height: 40px;
   line-height: 40px;
@@ -807,7 +807,7 @@ h4 {
   right: 10px;
 }
 
-#pure-style .pro .cart-shopping:hover {
+#purestyle .pro .cart-shopping:hover {
   background-color: #b5e7bd;
   color: #055a54;
   border: 2px solid #cce7d0;
