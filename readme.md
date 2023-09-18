@@ -24,7 +24,7 @@ A seguir, a lista de tarefas e seus detalhes para atender as especificações do
 - [x] banner para destacar: Três peças conceito. Cinza
 - [x] seção de Novidades: peças que acabaram de chegar. Nossas Peças Para Você
 - [x] banner new: Uma peça destaque. Pink
-- [ ] seção de todas as peças - Puro estilo. Tudo Com Puro Estilo Para Você
+- [x] seção de todas as peças - Puro estilo. Tudo Com Puro Estilo Para Você
 - [x] banner off: promoção 70% off (criar uma seção [card] com as peças para essa promoção)
 - [x] seção de acessórios: O Puro Estilo
 - [x] banners coleções destaques
@@ -41,7 +41,6 @@ A seguir, a lista de tarefas e seus detalhes para atender as especificações do
 
 ### Etapa 2 (feature/stage-2)
 
-- [ ] seção de todas as peças: Puro estilo
 - [ ] na seção de todas as peças: buscar 
 - [ ] na seção de todas as peças: listagem numerada
 - [ ] na seção de todas as peças: ordenação
