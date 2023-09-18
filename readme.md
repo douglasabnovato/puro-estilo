@@ -26,7 +26,7 @@ A seguir, a lista de tarefas e seus detalhes para atender as especificações do
 - [x] banner new: Uma peça destaque. Pink
 - [ ] seção de todas as peças - Puro estilo. Tudo Com Puro Estilo Para Você
 - [x] banner off: promoção 70% off (criar uma seção [card] com as peças para essa promoção)
-- [ ] seção de acessórios: O Puro Estilo
+- [x] seção de acessórios: O Puro Estilo
 - [x] banners coleções destaques
 - [x] seção de campanhas de promoções: O Que Vem Por Aí!?
 - [x] banner depoimentos: Nossos clientes. Pink
