@@ -1,9 +1,7 @@
 /*
-
 cores
 #ee1c47
 #ff523b
-
 */
 
 /* font-family: "Spartan", sans-serif; */
@@ -19,6 +17,7 @@ cores
   text-decoration: none;
 }
 
+/* header : menu navegador */
 header {
   position: fixed;
   width: 100%;

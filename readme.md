@@ -37,7 +37,9 @@ A seguir, a lista de tarefas e seus detalhes para atender as especificações do
 #### Correções dessa etapa
 
 - [ ] heart dos cards: posicionar ao final da linha depois do nome da peça  
-- [ ] revisar o css html js
+- [ ] revisar o css
+- [ ] revisar o html 
+- [ ] revisar o js
 
 ### Etapa 2 (feature/stage-2)
 
