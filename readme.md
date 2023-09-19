@@ -35,22 +35,30 @@ A seguir, a lista de tarefas e seus detalhes para atender as especificações do
 
 ### Etapa 2 (feature/stage-2)
  
-- [ ] na seção de todas as peças: buscar 
-- [ ] na seção de todas as peças: listagem numerada
-- [ ] na seção de todas as peças: ordenação
-- [ ] detalhes de peça: mostrar informações no item clicado
-- [ ] mostrar uma lista de itens selecionados como favoritos para ter orçamento 
-- [ ] gerar em pdf da lista de itens selecionados
-- [ ] footer: link para uma página de blog para matérias de moda e trabalhar seo
-- [ ] footer: uma página sobre 
-- [ ] banner newsletter 
-- [ ] banner contato
+- [ ] na seção de todas as peças - Puro estilo: listagem numerada
+- [ ] exibir detalhes de peça ao clicar no item
+- [ ] adicionar na sacola de favoritos para ter orçamento 
+- [ ] gerar um pdf da sacola de favoritos
+
+### Etapa 3 (feature/stage-3)
+
+- [ ] na seção de todas as peças - Puro estilo: filtros 
+- [ ] na seção de todas as peças - Puro estilo: ordenar por
+- [ ] na seção de todas as peças - Puro estilo: pesqusisar 
+- [ ] para seções: botão mais 
+- [ ] banner com slideshow
+- [ ] banner de coleção
+- [ ] card para seção 
 
 ### Referências
  
-1. [of Saidul Islam](https://www.youtube.com/watch?v=FaNTVjATYHQ): estrutura principal
-2. [of GreatStack](https://www.youtube.com/watch?v=yQimoqo0-7g)
-3. [of Tech2 etc](https://www.youtube.com/watch?v=P8YuWEkTeuE)
+- [x] 1. [of Saidul Islam](https://www.youtube.com/watch?v=FaNTVjATYHQ): estrutura principal
+- [ ] 2. [of GreatStack](https://www.youtube.com/watch?v=yQimoqo0-7g): seções e banners, listagem, ordenação, exibir detalhes de peça ao clicar no item, sacola de favoritos
+- [ ] 3. [of Tech2 etc](https://www.youtube.com/watch?v=P8YuWEkTeuE): exibir detalhes de peça ao clicar no item, sacola de favoritos
+- [ ] 4. [of Hora de codar](https://www.youtube.com/watch?v=oQ3_p4oCzDE): gerar o pdf
+- [ ] 5. [of Loop True](https://www.youtube.com/watch?v=WPU8eC6UNFo): slideshow, filtros, banner, botão mais, card  
+- [ ] 6. [of Mr. Web Designer](https://www.youtube.com/watch?v=GFmSgTYX5fg): com galeria banner principal, seção e depoimentos, maps, barra pesquisar
+- [ ] 7. [of Tech2 etc](https://www.youtube.com/watch?v=37KohMnlP7Q&list=PL9bD98LkBR7O4_SVeN8IXLQRjrGontmbT): imagens de peças
 
 ### Utilitários
 
