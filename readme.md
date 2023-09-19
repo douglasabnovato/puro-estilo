@@ -16,12 +16,11 @@ A seguir, a lista de tarefas e seus detalhes para atender as especificações do
 
 - [x] em português
 - [x] ser responsivo: desktop, tablet, mobile
-- [x] logo
-- [x] favicon
-- [x] header sendo um menu: Logo, Looks, Novidades, Puro Estilo, Nossas marcas > header
+- [x] logo e favicon
+- [x] menu responsive: Logo, Looks, Novidades, Puro Estilo, Nossas marcas > header
 - [x] banner principal: Lançamento de coleção > main-home
 - [x] seção de destaque - Looks: montagem de looks de combinações. Nossos Looks Para Você  > trending-product - looks
-- [x] banner para destacar: Três peças conceito. Cinza > categories
+- [x] banner com Três peças conceito. Cinza > categories
 - [x] seção de Novidades: peças que acabaram de chegar. Nossas Peças Para Você > product1 - news
 - [x] banner new: Uma peça destaque. Pink > offer
 - [x] seção de todas as peças - Puro estilo. Tudo Com Puro Estilo Para Você > trending-product - purestyle
@@ -34,16 +33,8 @@ A seguir, a lista de tarefas e seus detalhes para atender as especificações do
 - [x] seção fundadores > founder
 - [x] footer: logo, informações importantes. Cinza > contact - footer
 
-#### Correções dessa etapa
-
-- [x] heart dos cards: posicionar ao final da linha depois do nome da peça  
-- [x] revisar o css
-- [x] revisar o html 
-- [x] revisar o js
-
 ### Etapa 2 (feature/stage-2)
-
-- [ ] header: menu em mobile
+ 
 - [ ] na seção de todas as peças: buscar 
 - [ ] na seção de todas as peças: listagem numerada
 - [ ] na seção de todas as peças: ordenação
@@ -56,7 +47,14 @@ A seguir, a lista de tarefas e seus detalhes para atender as especificações do
 - [ ] banner contato
 
 ### Referências
-
-1. [of GreatStack](https://www.youtube.com/watch?v=yQimoqo0-7g)
-2. [of Saidul Islam](https://www.youtube.com/watch?v=FaNTVjATYHQ)
+ 
+1. [of Saidul Islam](https://www.youtube.com/watch?v=FaNTVjATYHQ): estrutura principal
+2. [of GreatStack](https://www.youtube.com/watch?v=yQimoqo0-7g)
 3. [of Tech2 etc](https://www.youtube.com/watch?v=P8YuWEkTeuE)
+
+### Utilitários
+
+1.[Fonte Google - League Spartan](https://fonts.google.com/specimen/League+Spartan?query=spartan)  
+2.[Fonte Google - Poppins](https://fonts.google.com/specimen/Poppins?query=poppins)   
+3.[Fonte Font Awesome](https://fontawesome.com/) 
+4.[Símbolos html](https://www.toptal.com/designers/htmlarrows/) 

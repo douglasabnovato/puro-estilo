@@ -1,7 +1,7 @@
 //botão do menu
 const header = document.querySelector("header");
 
-const up_arrow = $(".up-arrow");
+const up_arrow = document.querySelector(".up-arrow");
 
 window.addEventListener("scroll", function () {
   header.classList.toggle("sticky", this.window.scrollY > 0);
