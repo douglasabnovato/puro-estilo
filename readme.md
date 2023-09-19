@@ -66,3 +66,5 @@ A seguir, a lista de tarefas e seus detalhes para atender as especificações do
 2. [Google Font - League Spartan](https://fonts.google.com/specimen/League+Spartan?query=spartan)  
 3. [Google Font - Poppins](https://fonts.google.com/specimen/Poppins?query=poppins)   
 4. [Font Awesome](https://fontawesome.com/) 
+
+@douglasabnovato
