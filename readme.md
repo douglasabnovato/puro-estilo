@@ -62,7 +62,7 @@ A seguir, a lista de tarefas e seus detalhes para atender as especificações do
 
 ### Utilitários
 
-1.[Fonte Google - League Spartan](https://fonts.google.com/specimen/League+Spartan?query=spartan)  
-2.[Fonte Google - Poppins](https://fonts.google.com/specimen/Poppins?query=poppins)   
-3.[Fonte Font Awesome](https://fontawesome.com/)
-4.[Símbolos html](https://www.toptal.com/designers/htmlarrows/) 
+1. [Símbols html](https://www.toptal.com/designers/htmlarrows/)
+2. [Google Font - League Spartan](https://fonts.google.com/specimen/League+Spartan?query=spartan)  
+3. [Google Font - Poppins](https://fonts.google.com/specimen/Poppins?query=poppins)   
+4. [Font Awesome](https://fontawesome.com/) 
