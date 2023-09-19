@@ -35,7 +35,7 @@ A seguir, a lista de tarefas e seus detalhes para atender as especificações do
 
 ### Etapa 2 (feature/stage-2)
  
-- [ ] na seção de todas as peças - Puro estilo: listagem numerada
+- [ ] na seção de todas as peças - Puro estilo: listagem numerada: exibir duas linhas de 3 cards por enumeração
 - [ ] exibir detalhes de peça ao clicar no item
 - [ ] adicionar na sacola de favoritos para ter orçamento 
 - [ ] gerar um pdf da sacola de favoritos
