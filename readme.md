@@ -4,8 +4,8 @@ Esse projeto deve seguir a estratágia de spa.
 
 ### Gestão do projeto
 
-Na `branch main` devemos manter uma versão em produção.
-Na `branch developer` devemos utilizar para testar e validar as implementações.
+Na `branch main` devemos manter uma versão em produção.</br>
+Na `branch developer` devemos utilizar para testar e validar as implementações.</br>
 Uma `branch feature/nome_tarefa` com um nome sugestivo conforme seu objetivo.
 
 A lista de tarefas devem ser desenvolvidas das branches de tarefas, tratadas e mergeadas na developer e então, na main fica a versão em produção.
@@ -14,33 +14,36 @@ A seguir, a lista de tarefas e seus detalhes para atender as especificações do
 
 ### Etapa 1 (feature/stage-1)
 
-- [x] ser responsivo: desktop, tablet, mobile
-- [ ] botão para levar ao topo
-- [x] favicon
-- [x] logo
 - [x] em português
-- [x] header: ter background 
-- [ ] seções em menu: Looks, News, Puro estilo, Nossas Marcas com fluxo
-- [x] banner [width 100%] principal: Lançamento de coleção. Cinza
-- [x] seção de destaque: Nossos Looks Para Você
-- [x] banner três fixos: Três peças conceito. Cinza
-- [x] seção de novidades: News
-- [x] banner new: Uma peça destaque. Pink
-- [x] banner off: promoção (criar uma seção com as peças para essa promoção)
-- [ ] seção de todas as peças: Puro estilo
-- [ ] banners categoria destaques
-- [x] seção de promoções: O Que Vem Por Aí!?
-- [x] banner depoimentos como galeria: Nossos clientes. Pink
-- [x] banner de marcas como galeria: Nossas marcas
-- [x] seção fundadores
-- [x] footer:logo, informações importantes. Cinza 
+- [x] ser responsivo: desktop, tablet, mobile
+- [x] logo
+- [x] favicon
+- [x] header sendo um menu: Logo, Looks, Novidades, Puro Estilo, Nossas marcas > header
+- [x] banner principal: Lançamento de coleção > main-home
+- [x] seção de destaque - Looks: montagem de looks de combinações. Nossos Looks Para Você  > trending-product - looks
+- [x] banner para destacar: Três peças conceito. Cinza > categories
+- [x] seção de Novidades: peças que acabaram de chegar. Nossas Peças Para Você > product1 - news
+- [x] banner new: Uma peça destaque. Pink > offer
+- [x] seção de todas as peças - Puro estilo. Tudo Com Puro Estilo Para Você > trending-product - purestyle
+- [x] banner off: promoção 70% off (criar uma seção [card] com as peças para essa promoção) > banner-off
+- [x] seção de acessórios: O Puro Estilo > accessories - purestyle
+- [x] banners coleções destaques > sm-banner - collecions
+- [x] seção de campanhas de promoções: O Que Vem Por Aí!? > Update-news
+- [x] banner depoimentos: Nossos clientes. Pink > testimonial
+- [x] banner como galeria de Nossas marcas: as marcas que a loja trabalha > brands
+- [x] seção fundadores > founder
+- [x] footer: logo, informações importantes. Cinza > contact - footer
 
 #### Correções dessa etapa
 
-- [ ] heart dos cards: posicionar ao final da linha depois do nome da peça
+- [x] heart dos cards: posicionar ao final da linha depois do nome da peça  
+- [x] revisar o css
+- [x] revisar o html 
+- [x] revisar o js
 
 ### Etapa 2 (feature/stage-2)
 
+- [ ] header: menu em mobile
 - [ ] na seção de todas as peças: buscar 
 - [ ] na seção de todas as peças: listagem numerada
 - [ ] na seção de todas as peças: ordenação
@@ -48,9 +51,9 @@ A seguir, a lista de tarefas e seus detalhes para atender as especificações do
 - [ ] mostrar uma lista de itens selecionados como favoritos para ter orçamento 
 - [ ] gerar em pdf da lista de itens selecionados
 - [ ] footer: link para uma página de blog para matérias de moda e trabalhar seo
-- [ ] footer: newsletter 
-- [ ] footer: contato
-- [ ] footer: sobre
+- [ ] footer: uma página sobre 
+- [ ] banner newsletter 
+- [ ] banner contato
 
 ### Referências
 
