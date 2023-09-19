@@ -15,7 +15,7 @@ A seguir, a lista de tarefas e seus detalhes para atender as especificações do
 ### Etapa 1 (feature/stage-1)
 
 - [x] em português
-- [ ] ser responsivo: desktop, tablet, mobile
+- [x] ser responsivo: desktop, tablet, mobile
 - [x] logo
 - [x] favicon
 - [x] header sendo um menu: Logo, Looks, Novidades, Puro Estilo, Nossas marcas > header
@@ -43,6 +43,7 @@ A seguir, a lista de tarefas e seus detalhes para atender as especificações do
 
 ### Etapa 2 (feature/stage-2)
 
+- [ ] header: menu em mobile
 - [ ] na seção de todas as peças: buscar 
 - [ ] na seção de todas as peças: listagem numerada
 - [ ] na seção de todas as peças: ordenação
