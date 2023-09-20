@@ -54,6 +54,7 @@ A seguir, a lista de tarefas e seus detalhes para atender as especificações do
 ### Etapa 4 (feature/stage-4)
 
 - [ ] aplicar identidade visual
+- [ ] efeitos css para mobile
 
 ### Referências
  
