@@ -34,8 +34,8 @@ A seguir, a lista de tarefas e seus detalhes para atender as especificações do
 - [x] footer: logo, informações importantes. Cinza > contact - footer
 
 ### Etapa 2 (feature/stage-2)
- 
-- [ ] na seção de todas as peças - Puro estilo: listagem numerada: exibir duas linhas de 3 cards por enumeração
+
+- [ ] na seção de todas as peças - Puro estilo: listagem numerada: exibir duas linhas de 3 cards por enumeração 
 - [ ] exibir detalhes de peça ao clicar no item
 - [ ] adicionar na sacola de favoritos para ter orçamento 
 - [ ] gerar um pdf da sacola de favoritos
@@ -54,7 +54,7 @@ A seguir, a lista de tarefas e seus detalhes para atender as especificações do
 ### Etapa 4 (feature/stage-4)
 
 - [ ] aplicar identidade visual
-- [ ] efeitos css para mobile
+- [ ] efeitos css para mobile 
 
 ### Referências
  

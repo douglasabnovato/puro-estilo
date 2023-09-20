@@ -1,11 +1,8 @@
-/*
-cores
-#ee1c47
-#ff523b
-*/
-
 /* font-family: "Spartan", sans-serif; */
 @import url("https://fonts.googleapis.com/css2?family=League+Spartan:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+
+/* start - geral */
 
 * {
   margin: 0;
@@ -21,6 +18,14 @@ h4 {
   color: #555;
   font-weight: normal;
 }
+
+section {
+  padding: 5% 10%;
+}
+
+/* the end - geral */
+
+/* start - componentes */
 
 .title {
   text-align: center;
@@ -61,6 +66,8 @@ h4 {
 .col-4:hover {
   transform: translateY(-5px);
 }
+
+/* the end - componentes */
 
 /* start - header : menu navegador */
 header {
@@ -129,17 +136,7 @@ header #menu-icon {
 }
 
 /* the end - header : menu navegador */
-
-/* start - main */
-
-section {
-  padding: 5% 10%;
-}
-
-.box-height {
-  height: 100vh;
-}
-
+ 
 /* start - main-home */
 .main-home {
   width: 100%;
@@ -149,6 +146,10 @@ section {
   display: grid;
   grid-template-columns: repeat(1, 1fr);
   align-items: center;
+}
+
+.box-height {
+  height: 100vh;
 }
 
 .main-text h5 {
@@ -173,6 +174,7 @@ section {
   font-style: italic;
   margin-bottom: 20px;
 }
+
 .main-btn {
   display: inline-block;
   color: #111;
@@ -183,17 +185,20 @@ section {
   padding: 12px 25px;
   transition: all 0.42s ease;
 }
+
 .main-btn:hover {
   background-color: #000;
   color: #fff;
 }
+
 .main-btn i {
   vertical-align: middle;
 }
 
 /* the end - main-home */
 
-/* start - trending-product */
+/* start - trending-product - looks + purestyle */
+
 .center-text {
   text-align: center;
 }
@@ -282,7 +287,7 @@ section {
   font-weight: 600;
 }
 
-/* the end - trending-product */
+/* the end - trending-product - looks */
 
 /* start - banner categories */
 .categories {
@@ -318,21 +323,21 @@ section {
 
 /* the end -  banner categories*/
 
-/* start news - product1 */
+/* start - products-  news */
 
-#product1 {
+#products {
   font-family: "Spartan", sans-serif;
   text-align: center;
 }
 
-#product1 .pro-container {
+#products .pro-container {
   display: flex;
   justify-content: space-between;
   padding-top: 20px;
   flex-wrap: wrap;
 }
 
-#product1 .pro {
+#products .pro {
   width: 23%;
   min-width: 250px;
   padding: 10px 12px;
@@ -345,44 +350,44 @@ section {
   position: relative;
 }
 
-#product1 .pro:hover {
+#products .pro:hover {
   box-shadow: 20px 20px 30px rgba(0, 0, 0, 0.06);
 }
 
-#product1 .pro img {
+#products .pro img {
   width: 100%;
   border-radius: 20px;
 }
 
-#product1 .pro .des {
+#products .pro .des {
   text-align: start;
   padding: 10px 0;
 }
 
-#product1 .pro .des span {
+#products .pro .des span {
   color: #606063;
   font-size: 12px;
 }
 
-#product1 .pro .des h5 {
+#products .pro .des h5 {
   padding-top: 7px;
   color: #1a1a1a;
   font-size: 14px;
 }
 
-#product1 .pro .des i {
+#products .pro .des i {
   font-size: 12px;
   color: rgb(243, 181, 25);
 }
 
-#product1 .pro .des h4 {
+#products .pro .des h4 {
   padding-top: 7px;
   font-size: 15px;
   font-weight: 700;
   color: #088178;
 }
 
-#product1 .pro .cart-shopping {
+#products .pro .cart-shopping {
   width: 40px;
   height: 40px;
   line-height: 40px;
@@ -396,28 +401,28 @@ section {
   right: 10px;
 }
 
-#product1 .pro .cart-shopping:hover {
+#products .pro .cart-shopping:hover {
   background-color: #b5e7bd;
   color: #055a54;
   border: 2px solid #cce7d0;
 }
 
-/* the end news - product1 */
+/* the end - products - news */
 
-/* start offer - banner news*/
+/* start - banner news - offer */
 
 .offer {
   background: radial-gradient(#fff, #ffd6d6);
-  margin-top: 80px;
-  padding: 30px 0;
+  margin-top: 12px;
+  padding: 15px 0;
 }
 
 .small-container {
   max-width: 1080px;
-  margin: 40px auto;
+  margin: 24px auto;
   padding-left: 25px;
   padding-right: 25px;
-  padding-top: 92px;
+  padding-top: 12px;
 }
 
 .col-2 {
@@ -427,7 +432,7 @@ section {
 
 .col-2 img {
   max-width: 100%;
-  padding: 50px 0;
+  padding: 26px 0;
 }
 
 .col-2 h1 {
@@ -437,7 +442,7 @@ section {
 }
 
 .offer-img {
-  padding: 50px;
+  padding: 30px;
 }
 
 small {
@@ -453,67 +458,9 @@ small {
   border-radius: 30px;
 }
 
-/* the end banner news*/
+/* the end - banner news - offer */
 
-/* start trending-product - purestyle */
-
-
-
-/* the end trending-product - purestyle */
-
-/* start Update-news*/
-
-.up-center-text h2 {
-  text-align: center;
-  color: #111;
-  font-size: 25px;
-  text-transform: capitalize;
-  font-weight: 700;
-  margin-bottom: 30px;
-}
-
-.cart img {
-  width: 380px;
-  height: auto;
-  border-radius: 5px;
-}
-
-.update-cart {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(380px, auto));
-  gap: 1rem;
-}
-
-.cart h5 {
-  color: #636872;
-  font-size: 14px;
-  text-transform: capitalize;
-  font-weight: 500;
-}
-
-.cart h4 {
-  color: #111;
-  font-size: 18px;
-  font-weight: 600;
-}
-
-.cart p {
-  color: #707070;
-  font-size: 15px;
-  max-width: 380px;
-  line-height: 25px;
-  margin-bottom: 12px;
-}
-
-.cart h6 {
-  color: #151515;
-  font-size: 14px;
-  font-weight: 500;
-}
-/* the end Update-news*/
-
-
-/* start banner off */
+/* start - banner off */
 
 .banner-off {
   margin: 40px 0;
@@ -565,9 +512,97 @@ small {
   color: #fff;
 }
 
-/* the end banner off  */
+/* the end - banner off  */
 
-/* start banner colletions - sm-banner */
+
+
+/* start - accessories - purestyle */
+
+#purestyle {
+  font-family: "Spartan", sans-serif;
+  text-align: center;
+}
+
+#purestyle .pro-container {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 20px;
+  flex-wrap: wrap;
+}
+
+#purestyle .pro {
+  width: 23%;
+  min-width: 250px;
+  padding: 10px 12px;
+  border: 1px solid #cce7d0;
+  border-radius: 25px;
+  cursor: pointer;
+  box-shadow: 20px 20px 30px rgba(0, 0, 0, 0.02);
+  margin: 15px 0;
+  transition: 0.2s ease;
+  position: relative;
+}
+
+#purestyle .pro:hover {
+  box-shadow: 20px 20px 30px rgba(0, 0, 0, 0.06);
+}
+
+#purestyle .pro img {
+  width: 100%;
+  border-radius: 20px;
+}
+
+#purestyle .pro .des {
+  text-align: start;
+  padding: 10px 0;
+}
+
+#purestyle .pro .des span {
+  color: #606063;
+  font-size: 12px;
+}
+
+#purestyle .pro .des h5 {
+  padding-top: 7px;
+  color: #1a1a1a;
+  font-size: 14px;
+}
+
+#purestyle .pro .des i {
+  font-size: 12px;
+  color: rgb(243, 181, 25);
+}
+
+#purestyle .pro .des h4 {
+  padding-top: 7px;
+  font-size: 15px;
+  font-weight: 700;
+  color: #088178;
+}
+
+#purestyle .pro .cart-shopping {
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  border-radius: 50px;
+  background-color: #e8f6ea;
+  font-weight: 500;
+  color: #088178;
+  border: 1px solid #cce7d0;
+  position: absolute;
+  bottom: 20px;
+  right: 10px;
+}
+
+#purestyle .pro .cart-shopping:hover {
+  background-color: #b5e7bd;
+  color: #055a54;
+  border: 2px solid #cce7d0;
+}
+ 
+/* the end - accessories - purestyle */
+
+/* start - banner colletions - sm-banner */
 
 .section-p1 {
   padding: 40px 80px;
@@ -694,95 +729,61 @@ small {
   background-image: url("./assets/banner-collections/b18.jpg");
 }
 
-/* the end banner colletions  */
+/* the end - banner colletions - sm-banner */ 
 
-/* start puro estilo - pure-style */
+/* start - update-news */
 
-#purestyle {
-  font-family: "Spartan", sans-serif;
+.up-center-text h2 {
   text-align: center;
-}
-
-#purestyle .pro-container {
-  display: flex;
-  justify-content: space-between;
-  padding-top: 20px;
-  flex-wrap: wrap;
-}
-
-#purestyle .pro {
-  width: 23%;
-  min-width: 250px;
-  padding: 10px 12px;
-  border: 1px solid #cce7d0;
-  border-radius: 25px;
-  cursor: pointer;
-  box-shadow: 20px 20px 30px rgba(0, 0, 0, 0.02);
-  margin: 15px 0;
-  transition: 0.2s ease;
-  position: relative;
-}
-
-#purestyle .pro:hover {
-  box-shadow: 20px 20px 30px rgba(0, 0, 0, 0.06);
-}
-
-#purestyle .pro img {
-  width: 100%;
-  border-radius: 20px;
-}
-
-#purestyle .pro .des {
-  text-align: start;
-  padding: 10px 0;
-}
-
-#purestyle .pro .des span {
-  color: #606063;
-  font-size: 12px;
-}
-
-#purestyle .pro .des h5 {
-  padding-top: 7px;
-  color: #1a1a1a;
-  font-size: 14px;
-}
-
-#purestyle .pro .des i {
-  font-size: 12px;
-  color: rgb(243, 181, 25);
-}
-
-#purestyle .pro .des h4 {
-  padding-top: 7px;
-  font-size: 15px;
+  color: #111;
+  font-size: 25px;
+  text-transform: capitalize;
   font-weight: 700;
-  color: #088178;
+  margin-bottom: 30px;
 }
 
-#purestyle .pro .cart-shopping {
-  width: 40px;
-  height: 40px;
-  line-height: 40px;
-  border-radius: 50px;
-  background-color: #e8f6ea;
+.cart img {
+  width: 380px;
+  height: auto;
+  border-radius: 5px;
+}
+
+.update-cart {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(380px, auto));
+  gap: 1rem;
+}
+
+.cart h5 {
+  color: #636872;
+  font-size: 14px;
+  text-transform: capitalize;
   font-weight: 500;
-  color: #088178;
-  border: 1px solid #cce7d0;
-  position: absolute;
-  bottom: 20px;
-  right: 10px;
 }
 
-#purestyle .pro .cart-shopping:hover {
-  background-color: #b5e7bd;
-  color: #055a54;
-  border: 2px solid #cce7d0;
+.cart h4 {
+  color: #111;
+  font-size: 18px;
+  font-weight: 600;
 }
 
-/* the end puro estilo - pure-style */
+.cart p {
+  color: #707070;
+  font-size: 15px;
+  max-width: 380px;
+  line-height: 25px;
+  margin-bottom: 12px;
+}
 
-/* start banner depoimentos - testimonial */
+.cart h6 {
+  color: #151515;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+/* the end - update-news */
+
+/* start - banner depoimentos - testimonial */
 
 .testimonial {
   padding-inline: 80px;
@@ -822,9 +823,31 @@ small {
   color: #777;
 }
 
-/* the end banner depoimentos - testimonial */
+/* the end - banner depoimentos - testimonial */
 
-/* start founder*/
+/* start - banner brands */
+
+.brands {
+  margin: 100px auto;
+}
+
+.col-5 {
+  width: 160px;
+}
+
+.col-5 img {
+  width: 100%;
+  cursor: pointer;
+  filter: grayscale(100%);
+}
+
+.col-5 img:hover {
+  filter: grayscale(0);
+}
+
+/* the end - banner brands */
+
+/* start - founder*/
 
 .founder {
   background-color: #f3f4f6;
@@ -881,31 +904,9 @@ small {
   margin-bottom: 2px;
 }
 
-/* the end founder*/
+/* the end - founder*/
 
-/* start banner brands */
-
-.brands {
-  margin: 100px auto;
-}
-
-.col-5 {
-  width: 160px;
-}
-
-.col-5 img {
-  width: 100%;
-  cursor: pointer;
-  filter: grayscale(100%);
-}
-
-.col-5 img:hover {
-  filter: grayscale(0);
-}
-
-/* the end banner brands */
-
-/* start contact - footer */
+/* start - contact - footer */
 
 .contact {
   background-color: #f3f4f6;
