@@ -49,6 +49,11 @@ A seguir, a lista de tarefas e seus detalhes para atender as especificações do
 - [ ] banner com slideshow
 - [ ] banner de coleção
 - [ ] card para seção 
+- [ ] modal para informações texto de footer
+
+### Etapa 4 (feature/stage-4)
+
+- [ ] aplicar identidade visual
 
 ### Referências
  
