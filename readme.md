@@ -42,7 +42,6 @@ A seguir, a lista de tarefas e seus detalhes para atender as especificações do
 
 ### Correções na feature/stage-2 
 
-- [video 4 - 12:05](https://www.youtube.com/watch?v=oXrlgOEiy6o): fazendo
 - classe small-container duplicada
 - posição de total-price
 
