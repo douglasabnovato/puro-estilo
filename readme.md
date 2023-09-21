@@ -55,7 +55,7 @@ A seguir, a lista de tarefas e seus detalhes para atender as especificações do
 
 - [ ] aplicar identidade visual
 - [ ] efeitos css para mobile 
-,
+
 ### Referências
  
 - [x] 1. [of Saidul Islam](https://www.youtube.com/watch?v=FaNTVjATYHQ): estrutura principal
