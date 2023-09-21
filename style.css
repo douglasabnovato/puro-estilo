@@ -295,14 +295,10 @@ td img {
   width: 80px;
   height: 80px;
   margin-right: 10px;
-} 
+}
 
 .cart-page {
   margin: 80px auto;
-}
-
-.cart-page h1{
-  margin: 24px 0;
 }
 
 .cart-info {
@@ -1111,21 +1107,30 @@ small {
   .row {
     text-align: center;
   }
+
   .col-2,
   .col-3,
   .col-4 {
     flex-basis: 100%;
   }
+
   .single-product .row {
     text-align: left;
   }
+
   .single-product .col-2 {
     padding: 20px 0;
   }
+
   .single-product h1 {
     font-size: 26px;
     line-height: 32px;
   }
+
+  .cart-info p {
+    display: none;
+  }
+
   .cart-page {
     margin-top: 140px;
   }

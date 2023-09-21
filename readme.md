@@ -36,8 +36,8 @@ A seguir, a lista de tarefas e seus detalhes para atender as especificações do
 ### Etapa 2 (feature/stage-2)
 
 - [ ] na seção de todas as peças - Puro estilo: listagem numerada: exibir duas linhas de 3 cards por enumeração 
-- [ ] exibir detalhes de peça ao clicar no item
-- [ ] adicionar na sacola de favoritos para ter orçamento 
+- [ ] exibir detalhes de peça ao clicar no item em um modal : estático
+- [ ] adicionar na sacola de favoritos para ter orçamento em um modal : estático
 - [ ] gerar um pdf da sacola de favoritos
 
 ### Etapa 3 (feature/stage-3)
@@ -55,6 +55,7 @@ A seguir, a lista de tarefas e seus detalhes para atender as especificações do
 
 - [ ] aplicar identidade visual
 - [ ] efeitos css para mobile 
+- [ ] garantir que as funcionalidades estão dinâmicas
 
 ### Referências
  
