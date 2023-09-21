@@ -40,6 +40,12 @@ A seguir, a lista de tarefas e seus detalhes para atender as especificações do
 - [ ] adicionar na sacola de favoritos para ter orçamento 
 - [ ] gerar um pdf da sacola de favoritos
 
+# correções
+
+- [video 4 - 12:05](https://www.youtube.com/watch?v=oXrlgOEiy6o): fazendo
+- classe small-container duplicada
+- posição de total-price
+
 ### Etapa 3 (feature/stage-3)
 
 - [ ] na seção de todas as peças - Puro estilo: filtros 

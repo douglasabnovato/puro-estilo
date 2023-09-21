@@ -1,7 +1,6 @@
 /* font-family: "Spartan", sans-serif; */
 @import url("https://fonts.googleapis.com/css2?family=League+Spartan:wght@100;200;300;400;500;600;700;800;900&display=swap");
 
-
 /* start - geral */
 
 * {
@@ -136,7 +135,7 @@ header #menu-icon {
 }
 
 /* the end - header : menu navegador */
- 
+
 /* start - main-home */
 .main-home {
   width: 100%;
@@ -201,7 +200,7 @@ header #menu-icon {
 
 .single-product {
   margin-top: 80px;
-  margin-bottom: 30px;
+  margin-bottom: 120px;
 }
 
 .single-product .col-2 {
@@ -212,13 +211,13 @@ header #menu-icon {
   padding: 0;
 }
 
-.single-product h4{
+.single-product h4 {
   margin: 20px 0;
   font-size: 22px;
   font-weight: bold;
 }
 
-.single-product select{
+.single-product select {
   display: block;
   padding: 10px;
   margin-top: 20px;
@@ -233,11 +232,11 @@ header #menu-icon {
   border: 1px solid #ff523b;
 }
 
-.single-product input:focus { 
+.single-product input:focus {
   outline: none;
 }
 
-.single-product .fa{
+.single-product .fa {
   color: #ff523b;
   margin-left: 10px;
 }
@@ -273,30 +272,41 @@ td {
   padding: 10px 5px;
 }
 
-td input{
+td input {
   width: 40px;
   height: 30px;
   padding: 5px;
 }
 
-td a{
+td a {
   color: #ff523b;
   font-size: 12px;
 }
 
-td img{
+td img {
   width: 80px;
   height: 80px;
   margin-right: 10px;
-}
+} 
 
 .cart-page {
   margin: 80px auto;
 }
 
-.cart-info{
+.cart-info {
   display: flex;
   flex-wrap: wrap;
+}
+
+.total-price {
+  display: flex;
+  justify-content: center;
+}
+
+.total-price table {
+  border-top: 5px solid #ff523b;
+  max-width: 100%;
+  width: 50vw;
 }
 
 /* the end - cart items details */
@@ -342,7 +352,7 @@ td img{
 
 .row img:hover {
   transform: scale(0.9);
-} 
+}
 
 .product-text h5 {
   position: absolute;
@@ -622,8 +632,6 @@ small {
 
 /* the end - banner off  */
 
-
-
 /* start - accessories - purestyle */
 
 #purestyle {
@@ -707,7 +715,7 @@ small {
   color: #055a54;
   border: 2px solid #cce7d0;
 }
- 
+
 /* the end - accessories - purestyle */
 
 /* start - banner colletions - sm-banner */
@@ -837,7 +845,7 @@ small {
   background-image: url("./assets/banner-collections/b18.jpg");
 }
 
-/* the end - banner colletions - sm-banner */ 
+/* the end - banner colletions - sm-banner */
 
 /* start - update-news */
 
@@ -1080,29 +1088,23 @@ small {
 /* Responsive */
 
 @media only screen and (max-width: 600px) {
-    .row {
-      text-align: center;
-    }
-    .col-2, .col-3, .col-4 {
-      flex-basis: 100%;
-    }
-    .single-product .row {
-      text-align: left;
-    }
-    .single-product .col-2 {
-      padding: 20px 0;
-    }
-    .single-product h1 {
-      font-size: 26px;
-      line-height: 32px;
-    }
-
-}
-
-@media (max-width: 890px) {
-  header {
-    padding: 20px 3%;
-    transition: 0.4s;
+  .row {
+    text-align: center;
+  }
+  .col-2,
+  .col-3,
+  .col-4 {
+    flex-basis: 100%;
+  }
+  .single-product .row {
+    text-align: left;
+  }
+  .single-product .col-2 {
+    padding: 20px 0;
+  }
+  .single-product h1 {
+    font-size: 26px;
+    line-height: 32px;
   }
 }
 
@@ -1143,5 +1145,12 @@ small {
 
   .navmenu.open {
     right: 0;
+  }
+}
+
+@media (max-width: 890px) {
+  header {
+    padding: 20px 3%;
+    transition: 0.4s;
   }
 }
