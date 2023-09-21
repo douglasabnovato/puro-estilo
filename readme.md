@@ -55,11 +55,11 @@ A seguir, a lista de tarefas e seus detalhes para atender as especificações do
 
 - [ ] aplicar identidade visual
 - [ ] efeitos css para mobile 
-
+,
 ### Referências
  
 - [x] 1. [of Saidul Islam](https://www.youtube.com/watch?v=FaNTVjATYHQ): estrutura principal
-- [ ] 2. [of GreatStack](https://www.youtube.com/watch?v=yQimoqo0-7g): seções e banners, listagem, ordenação, exibir detalhes de peça ao clicar no item, sacola de favoritos
+- [ ] 2. [of GreatStack 1](https://www.youtube.com/watch?v=yQimoqo0-7g), [of GreatStack 2](https://www.youtube.com/watch?v=ZbnvP_hmxfE&t=0s), [of GreatStack 3](https://www.youtube.com/watch?v=ENyk_W-Eleo), [of GreatStack 4](https://www.youtube.com/watch?v=oXrlgOEiy6o) e [of GreatStack 5](https://www.youtube.com/watch?v=vOXGuNVRGpA): seções e banners, listagem, ordenação, exibir detalhes de peça ao clicar no item, sacola de favoritos
 - [ ] 3. [of Tech2 etc](https://www.youtube.com/watch?v=P8YuWEkTeuE): exibir detalhes de peça ao clicar no item, sacola de favoritos
 - [ ] 4. [of Hora de codar](https://www.youtube.com/watch?v=oQ3_p4oCzDE): gerar o pdf
 - [ ] 5. [of Loop True](https://www.youtube.com/watch?v=WPU8eC6UNFo): slideshow, filtros, banner, botão mais, card  
