@@ -413,6 +413,10 @@ td img {
   font-weight: 600;
 }
 
+.details-look {
+  cursor: pointer;
+}
+
 /* the end - trending-product - looks */
 
 /* start - banner categories */

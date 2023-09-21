@@ -40,6 +40,10 @@ A seguir, a lista de tarefas e seus detalhes para atender as especificações do
 - [ ] adicionar na sacola de favoritos para ter orçamento em um modal : estático
 - [ ] gerar um pdf da sacola de favoritos
 
+### Correções Etapa 2 (feature/stage-2)
+
+- [ ] tamanho da imagem em look
+
 ### Etapa 3 (feature/stage-3)
 
 - [ ] na seção de todas as peças - Puro estilo: filtros 
