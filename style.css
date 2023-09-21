@@ -201,6 +201,7 @@ header #menu-icon {
 
 .single-product {
   margin-top: 80px;
+  margin-bottom: 30px;
 }
 
 .single-product .col-2 {
@@ -254,6 +255,10 @@ header #menu-icon {
 /* the end - single product details */
 
 /* start - trending-product - looks + purestyle */
+
+.trending-product {
+  margin-top: 160px;
+}
 
 .center-text {
   text-align: center;
@@ -1026,6 +1031,26 @@ small {
 /* the end - contact - footer  */
 
 /* Responsive */
+
+@media only screen and (max-width: 600px) {
+    .row {
+      text-align: center;
+    }
+    .col-2, .col-3, .col-4 {
+      flex-basis: 100%;
+    }
+    .single-product .row {
+      text-align: left;
+    }
+    .single-product .col-2 {
+      padding: 20px 0;
+    }
+    .single-product h1 {
+      font-size: 26px;
+      line-height: 32px;
+    }
+
+}
 
 @media (max-width: 890px) {
   header {
