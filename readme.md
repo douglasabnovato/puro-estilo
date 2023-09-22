@@ -37,7 +37,7 @@ A seguir, a lista de tarefas e seus detalhes para atender as especificações do
 
 - [ ] na seção de todas as peças - Puro estilo: listagem numerada: exibir duas linhas de 3 cards por enumeração 
 - [ ] exibir detalhes de peça ao clicar no item em um modal : estático
-- [ ] adicionar na sacola de favoritos para ter orçamento em um modal : estático
+- [ ] adicionar na sacola de favoritos para ter orçamento em um modal : estático : fazendo
 - [ ] gerar um pdf da sacola de favoritos
 
 ### Correções Etapa 2 (feature/stage-2)

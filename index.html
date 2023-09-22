@@ -48,8 +48,8 @@
       </ul>
       <div class="nav-icon"> <!--
          <a href="#"><i class="bx bx-search"></i></a>
-         <a href="#"><i class="bx bx-user"></i></a>
-         <a href="#"><i class="bx bx-cart"></i></a> -->
+         <a href="#"><i class="bx bx-user"></i></a> -->
+         <a href="#" id="myIcon"><i class="bx bx-cart"></i></a> 
         <div class="bx bx-menu" id="menu-icon"></div> 
       </div>
     </header>
@@ -433,49 +433,55 @@
       </div>
     </div>
 
-    <div class="small-container single-product box-height">
-      <div class="row">
-        <div class="col-2">
-          <img src="./assets/closes-details/gallery-1.jpg" alt="image" width="100%" id="productImg">
-          <div class="small-img-row">
-            <div class="small-img-col">
-              <img src="./assets/closes-details/gallery-1.jpg" alt="" width="100%" class="small-img">
-            </div>
-            <div class="small-img-col">
-              <img src="./assets/closes-details/gallery-2.jpg" alt="" width="100%" class="small-img">
-            </div>
-            <div class="small-img-col">
-              <img src="./assets/closes-details/gallery-3.jpg" alt="" width="100%" class="small-img">
-            </div>
-            <div class="small-img-col">
-              <img src="./assets/closes-details/gallery-4.jpg" alt="" width="100%" class="small-img">
+    <!-- The Modal -->
+    <div id="myModal" class="modal">
+
+      <div class="small-container single-product box-height modal-content">
+        <div class="row">
+          <div class="col-2">
+            <img src="./assets/closes-details/gallery-1.jpg" alt="image" width="100%" id="productImg">
+            <div class="small-img-row">
+              <div class="small-img-col">
+                <img src="./assets/closes-details/gallery-1.jpg" alt="" width="100%" class="small-img">
+              </div>
+              <div class="small-img-col">
+                <img src="./assets/closes-details/gallery-2.jpg" alt="" width="100%" class="small-img">
+              </div>
+              <div class="small-img-col">
+                <img src="./assets/closes-details/gallery-3.jpg" alt="" width="100%" class="small-img">
+              </div>
+              <div class="small-img-col">
+                <img src="./assets/closes-details/gallery-4.jpg" alt="" width="100%" class="small-img">
+              </div>
             </div>
           </div>
-        </div>
-        <div class="col-2"> 
-          <div class="col-2">
-            <p>Home / T-Shirt</p>
-            <h1>Red by HRY</h1>
-            <h4>$50.00</h4>
-            <select title="size">
-              <option>Select Size</option>
-              <option>XXL</option>
-              <option>XL</option>
-              <option>Large</option>
-              <option>Medium</option>
-              <option>Small</option>
-            </select>
-            <input placeholder="pedido em unidade" type="number" value="1">
-            <a href="#" class="btn">Add S2</a>
-            <h3>Product Details <i class="fa fa-indent"></i></h3>
-            <br>
-            <p>A moda feminina é uma forma poderosa de expressão pessoal que evolui continuamente ao longo do tempo, refletindo não apenas as tendências estéticas, mas também as mudanças sociais e culturais. </p>
+          <div class="col-2"> 
+            <div class="col-2">
+              <p>Home / T-Shirt</p><span class="close">&times;</span>
+              <h1>Red by HRY</h1>
+              <h4>$50.00</h4>
+              <select title="size">
+                <option>Select Size</option>
+                <option>XXL</option>
+                <option>XL</option>
+                <option>Large</option>
+                <option>Medium</option>
+                <option>Small</option>
+              </select>
+              <input placeholder="pedido em unidade" type="number" value="1">
+              <a href="#" class="btn">Add S2</a>
+              <h3>Product Details <i class="fa fa-indent"></i></h3>
+              <br>
+              <p>A moda feminina é uma forma poderosa de expressão pessoal que evolui continuamente ao longo do tempo, refletindo não apenas as tendências estéticas, mas também as mudanças sociais e culturais. </p>
+            </div>
           </div>
         </div>
       </div>
+
     </div>
 
-    <div class="small-container cart-page box-height"> 
+    <!-- The Modal -->
+    <div class="small-container cart-page box-height modalSacola" id="myModalSacola"> 
       <table>
         <tr>
           <th>Product</th>
@@ -563,7 +569,9 @@
         <p>Cada peça no seu</p>
       </div>
       <div class="products">
-        <div class="row details-look">
+        
+        <!-- Trigger/Open The Modal -->
+        <div class="row details-look" id="myBtn">
           <img src="./assets/looks/12.jpg" alt="" />
           <div class="product-text">
             <h5 class="cupon-highlight-pink">Look</h5>
@@ -583,6 +591,8 @@
             <i class="bx bx-heart"></i>
           </div>
         </div>
+
+
         <div class="row">
           <img src="./assets/looks/8.jpg" alt="" />
           <div class="product-text">
