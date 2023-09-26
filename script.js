@@ -62,6 +62,32 @@ window.onclick = function(event) {
 
 //botão sacola favoritos myIcon
 
+//details modal sacola favoritos class modalSacola [modal] e id myModalSacola [myModal]
 
-//details modal sacola favoritos class modalSacola e id myModalSacola
+//details sacola favoritos
+var modalFav = document.getElementById("myModalSacola");
+
+// Get the button that opens the modal
+var btnFav = document.getElementById("myBtnIcon");
+
+// Get the <span> element that closes the modal
+var spanFav = document.getElementsByClassName("closeFav")[0];
+
+// When the user clicks the button, open the modal 
+btnFav.onclick = function() {
+  modalFav.style.display = "block";
+}
+
+// When the user clicks on <span> (x), close the modal
+spanFav.onclick = function() {
+  console.log("fechar")
+  modalFav.style.display = "none";
+}
+
+// When the user clicks anywhere outside of the modal, close it
+window.onclick = function(event) {
+  if (event.target == modalFav) {
+    modalFav.style.display = "none";
+  }
+}
 
