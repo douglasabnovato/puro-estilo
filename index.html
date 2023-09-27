@@ -34,6 +34,11 @@
       href="https://fonts.googleapis.com/css2?family=Inter&family=Nunito+Sans:wght@200;300;400;600;700;800;900&family=Poppins:wght@300;400;500;600;700&family=Roboto:wght@100;300;400;500;700;900&display=swap"
       rel="stylesheet"
     />
+    <!-- html to pdf -->
+    <script 
+      src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js" 
+      integrity="sha512-GsLlZN/3F2ErC5ifS5QtgpiJtWd43JWSuIgh7mbzZ8zBps+dvLusV+eNQATqgA/HdeKFVgA5v3S/cIrLF7QnIg==" crossorigin="anonymous" 
+      referrerpolicy="no-referrer"></script>
   </head>
   <body>
     <header class="sticky">
@@ -432,10 +437,7 @@
         </div>
       </div>
     </div>
-
-    <!-- The Modal -->
     <div id="myModal" class="modal">
-
       <div class="small-container single-product box-height modal-content">
         <div class="row">
           <div class="col-2">
@@ -477,13 +479,9 @@
           </div>
         </div>
       </div>
-
     </div>
-
-    <!-- The Modal Favorito -->
-    <div id="myModalSacola" class="modalSacola">
-      
-      <div class="small-container cart-page box-height modal-content-favorito"> 
+    <div id="myModalSacola" class="modalSacola">      
+      <div class="small-container cart-page box-height modal-content-favorito" id="content-favorate"> 
         <table>
           <tr>
             <th>Product</th>
@@ -562,20 +560,17 @@
               <td>Total</td>
               <td>$235.00</td>
             </tr>
-          </table>
-        </div>
-      </div>
-    
-    </div>
-    
+          </table>        
+        </div> 
+        <button class="download-pdf" onclick="downloadPDF()">Minha lista de favoritos</button>  
+      </div>    
+    </div>    
     <section class="trending-product" id="purestyle">
       <div class="center-text">
         <h2 class="title">Tudo com <span>Puro Estilo</span> para você</h2>      
         <p>Cada peça no seu</p>
       </div>
       <div class="products">
-        
-        <!-- Trigger/Open The Modal -->
         <div class="row details-look" id="myBtn">
           <img src="./assets/looks/12.jpg" alt="" />
           <div class="product-text">
@@ -596,7 +591,6 @@
             <i class="bx bx-heart"></i>
           </div>
         </div>
-
         <div class="row">
           <img src="./assets/looks/8.jpg" alt="" />
           <div class="product-text">
@@ -617,7 +611,6 @@
             <i class="bx bx-heart"></i>
           </div>
         </div>
-
         <div class="row">
           <img src="./assets/looks/4.jpg" alt="" />
           <div class="product-text cupon-highlight-pink">
@@ -638,7 +631,6 @@
             <i class="bx bx-heart"></i>
           </div>
         </div>
-
         <div class="row">
           <img src="./assets/looks/7.jpg" alt="" />
           <div class="product-text">
@@ -659,7 +651,6 @@
             <i class="bx bx-heart"></i>
           </div>
         </div>
-
         <div class="row">
           <img src="./assets/looks/1.jpg" alt="" />
           <div class="product-text cupon-highlight-pink">
@@ -680,7 +671,6 @@
             <i class="bx bx-heart"></i>
           </div>
         </div>
-
         <div class="row">
           <img src="./assets/looks/2.jpg" alt="" />
           <div class="product-text cupon-highlight-pink">
@@ -701,9 +691,6 @@
             <i class="bx bx-heart"></i>
           </div>
         </div>
-
-        <!-- Trigger/Open The Modal -->
-
         <div class="row">
           <img src="./assets/looks/3.jpg" alt="" />
           <div class="product-text cupon-highlight-pink">

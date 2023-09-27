@@ -91,3 +91,21 @@ window.onclick = function(event) {
   }
 }
 
+//html 2 pdf
+
+function downloadPDF(){
+  const listFavorates = document.querySelector("#content-favorate");
+
+  var option = {
+    margin: [10,10,10,10],
+    filename: "my-favorate-puro-estilo.pdf",
+    html2canvas: { scale: 2},
+    jsPDF: {
+      unit: "in",
+      format: "letter",
+      orientation: "portrait"
+    }
+  };
+
+  html2pdf().set(option).from(listFavorates).save();
+}
