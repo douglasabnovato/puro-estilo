@@ -97,7 +97,7 @@ function downloadPDF(){
   const listFavorates = document.querySelector("#content-favorate");
 
   var option = {
-    margin: [10,10,10,10],
+    margin: 1,
     filename: "my-favorate-puro-estilo.pdf",
     html2canvas: { scale: 2},
     jsPDF: {

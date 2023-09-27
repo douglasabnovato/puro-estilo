@@ -34,8 +34,7 @@ A seguir, a lista de tarefas e seus detalhes para atender as especificações do
 - [x] footer: logo, informações importantes. Cinza > contact - footer
 
 ### Etapa 2 (feature/stage-2)
-
-- [ ] na seção de todas as peças - Puro estilo: listagem numerada: exibir duas linhas de 3 cards por enumeração 
+ 
 - [x] exibir detalhes de peça ao clicar no item em um modal : estático
 - [x] adicionar na sacola de favoritos para ter orçamento em um modal : estático 
 - [x] gerar um pdf da sacola de favoritos
@@ -43,9 +42,11 @@ A seguir, a lista de tarefas e seus detalhes para atender as especificações do
 ### Correções Etapa 2 (feature/stage-2)
 
 - [ ] tamanho da imagem em look
+- [ ] revisar as posições dos componentes nos diferentes views
 
 ### Etapa 3 (feature/stage-3)
 
+- [ ] na seção de todas as peças - Puro estilo: listagem numerada: exibir duas linhas de 3 cards por enumeração
 - [ ] na seção de todas as peças - Puro estilo: filtros 
 - [ ] na seção de todas as peças - Puro estilo: ordenar por
 - [ ] na seção de todas as peças - Puro estilo: pesqusisar 
