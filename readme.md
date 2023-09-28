@@ -41,7 +41,7 @@ A seguir, a lista de tarefas e seus detalhes para atender as especificações do
 
 ### Etapa 3 (feature/stage-3)
 
-- [ ] na seção de todas as peças - Puro estilo: listagem numerada: exibir duas linhas de 3 cards por enumeração
+- [ ] na seção de todas as peças - Puro estilo: paginação
 - [ ] na seção de todas as peças - Puro estilo: filtros 
 - [ ] na seção de todas as peças - Puro estilo: ordenar por
 - [ ] na seção de todas as peças - Puro estilo: pesqusisar 
@@ -60,8 +60,8 @@ A seguir, a lista de tarefas e seus detalhes para atender as especificações do
 ### Referências
  
 - [x] 1. [of Saidul Islam](https://www.youtube.com/watch?v=FaNTVjATYHQ): estrutura principal
-- [x] 2. [of GreatStack 1](https://www.youtube.com/watch?v=yQimoqo0-7g), [of GreatStack 2](https://www.youtube.com/watch?v=ZbnvP_hmxfE&t=0s), [of GreatStack 3](https://www.youtube.com/watch?v=ENyk_W-Eleo), [of GreatStack 4](https://www.youtube.com/watch?v=oXrlgOEiy6o) e [of GreatStack 5](https://www.youtube.com/watch?v=vOXGuNVRGpA): seções e banners, listagem, ordenação, exibir detalhes de peça ao clicar no item, sacola de favoritos
-- [ ] 3. [of Tech2 etc](https://www.youtube.com/watch?v=P8YuWEkTeuE): exibir detalhes de peça ao clicar no item, sacola de favoritos
+- [x] 2. [of GreatStack 1](https://www.youtube.com/watch?v=yQimoqo0-7g), [of GreatStack 2](https://www.youtube.com/watch?v=ZbnvP_hmxfE&t=0s), [of GreatStack 3](https://www.youtube.com/watch?v=ENyk_W-Eleo), [of GreatStack 4](https://www.youtube.com/watch?v=oXrlgOEiy6o) e [of GreatStack 5](https://www.youtube.com/watch?v=vOXGuNVRGpA): seções, banners, exibir detalhes de peça ao clicar no item e sacola de favoritos
+- [ ] 3. [of Tech2 etc 1](https://www.youtube.com/watch?v=P8YuWEkTeuE), [of Tech2 etc 2](https://www.youtube.com/watch?v=99muDSuP55s), [of Tech2 etc 3](https://www.youtube.com/watch?v=QghqHw_vWzQ), [of Tech2 etc 4](https://www.youtube.com/watch?v=4-QLHECxSTY), [of Tech2 etc 5](https://www.youtube.com/watch?v=7rZjQNkIQWg), [of Tech2 etc 6](https://www.youtube.com/watch?v=yVjh7zDhF9s): exibir detalhes de peça ao clicar no item, sacola de favoritos, paginação
 - [x] 4. [of Hora de codar](https://www.youtube.com/watch?v=oQ3_p4oCzDE) e [Gerador de HTML para PDF com JavaScript (html2pdf)](https://www.youtube.com/watch?v=lr90eFF7whI): gerar o pdf
 - [ ] 5. [of Loop True](https://www.youtube.com/watch?v=WPU8eC6UNFo): slideshow, filtros, banner, botão mais, card  
 - [ ] 6. [of Mr. Web Designer](https://www.youtube.com/watch?v=GFmSgTYX5fg): com galeria banner principal, seção e depoimentos, maps, barra pesquisar
