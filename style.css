@@ -305,7 +305,11 @@ td img {
   display: flex;
   flex-wrap: wrap;
 }
-
+ 
+.cart-info img{
+  height: 120px; 
+  max-width: 112px;
+}
 
 .total-price {
   display: flex;
