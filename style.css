@@ -196,7 +196,7 @@ header #menu-icon {
 
 /* the end - main-home */
 
-/* start - single product details 06:46 */
+/* start - single product details */
 
 .single-product {
   margin-top: 80px;
@@ -305,7 +305,11 @@ td img {
   display: flex;
   flex-wrap: wrap;
 }
-
+ 
+.cart-info img{
+  height: 120px; 
+  max-width: 112px;
+}
 
 .total-price {
   display: flex;
@@ -386,7 +390,7 @@ td img {
   font-size: 12px;
   font-weight: 500;
   text-transform: uppercase;
-  padding: 3px 10px;
+  padding: 4px 12px;
   border-radius: 2px;
 }
 
@@ -473,6 +477,28 @@ td img {
 }
 
 /* the end - trending-product - looks + purestyle */
+
+/* start - pagination - products */
+
+#pagination {
+   text-align: center;
+}
+
+#pagination a{
+   text-decoration: none;
+   background-color: #088178;
+   padding: 15px 20px;
+   border-radius: 4px;
+   color: #fff;
+   font-weight: 600;
+}
+
+#pagination a i {
+  font-size: 16px;
+  font-weight: 600;
+}
+
+/* the end - pagination - products */
 
 /* start - banner categories */
 .categories {
