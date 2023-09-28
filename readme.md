@@ -40,8 +40,7 @@ A seguir, a lista de tarefas e seus detalhes para atender as especificações do
 - [x] gerar um pdf da sacola de favoritos
 
 ### Correções Etapa 2 (feature/stage-2)
-
-- [ ] tamanho da imagem em look
+ 
 - [ ] revisar as posições dos componentes nos diferentes views
 
 ### Etapa 3 (feature/stage-3)

@@ -196,7 +196,7 @@ header #menu-icon {
 
 /* the end - main-home */
 
-/* start - single product details 06:46 */
+/* start - single product details */
 
 .single-product {
   margin-top: 80px;
@@ -386,7 +386,7 @@ td img {
   font-size: 12px;
   font-weight: 500;
   text-transform: uppercase;
-  padding: 3px 10px;
+  padding: 4px 12px;
   border-radius: 2px;
 }
 
